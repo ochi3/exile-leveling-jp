@@ -1,7 +1,7 @@
 {
   "1_1_1": {
     "id": "1_1_1",
-    "name": "The Twilight Strand",
+    "name": "黄昏の岸辺",
     "map_name": null,
     "act": 1,
     "has_waypoint": false,
@@ -14,7 +14,7 @@
   },
   "1_Labyrinth_boss_3": {
     "id": "1_Labyrinth_boss_3",
-    "name": "Aspirant's Trial",
+    "name": "志す者への試練",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -27,7 +27,7 @@
   },
   "2_Labyrinth_boss_3": {
     "id": "2_Labyrinth_boss_3",
-    "name": "Aspirant's Trial",
+    "name": "志す者への試練",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -40,7 +40,7 @@
   },
   "3_Labyrinth_boss_3": {
     "id": "3_Labyrinth_boss_3",
-    "name": "Aspirant's Trial",
+    "name": "志す者への試練",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -53,8 +53,8 @@
   },
   "1_1_town": {
     "id": "1_1_town",
-    "name": "Lioneye's Watch",
-    "map_name": "Lioneye's Watch",
+    "name": "ライオンアイの見張り場",
+    "map_name": "ライオンアイの見張り場",
     "act": 1,
     "has_waypoint": true,
     "is_town_area": true,
@@ -67,8 +67,8 @@
   },
   "1_1_2": {
     "id": "1_1_2",
-    "name": "The Coast",
-    "map_name": "The Coast",
+    "name": "海岸",
+    "map_name": "海岸",
     "act": 1,
     "has_waypoint": true,
     "is_town_area": false,
@@ -82,7 +82,7 @@
   },
   "1_1_3": {
     "id": "1_1_3",
-    "name": "The Mud Flats",
+    "name": "ぬかるみの干潟",
     "map_name": null,
     "act": 1,
     "has_waypoint": false,
@@ -97,7 +97,7 @@
   },
   "1_1_2a": {
     "id": "1_1_2a",
-    "name": "The Tidal Island",
+    "name": "陸続きの島",
     "map_name": null,
     "act": 1,
     "has_waypoint": false,
@@ -110,8 +110,8 @@
   },
   "1_1_4_1": {
     "id": "1_1_4_1",
-    "name": "The Submerged Passage",
-    "map_name": "The Submerged Passage",
+    "name": "海底通路",
+    "map_name": "海底通路",
     "act": 1,
     "has_waypoint": true,
     "is_town_area": false,
@@ -125,7 +125,7 @@
   },
   "1_1_3a": {
     "id": "1_1_3a",
-    "name": "The Fetid Pool",
+    "name": "悪臭を放つ池",
     "map_name": null,
     "act": 1,
     "has_waypoint": false,
@@ -138,8 +138,8 @@
   },
   "1_1_5": {
     "id": "1_1_5",
-    "name": "The Ledge",
-    "map_name": "The Ledge",
+    "name": "岩棚",
+    "map_name": "岩棚",
     "act": 1,
     "has_waypoint": true,
     "is_town_area": false,
@@ -152,7 +152,7 @@
   },
   "1_1_4_0": {
     "id": "1_1_4_0",
-    "name": "The Flooded Depths",
+    "name": "水没した海底洞窟",
     "map_name": null,
     "act": 1,
     "has_waypoint": false,
@@ -165,8 +165,8 @@
   },
   "1_1_6": {
     "id": "1_1_6",
-    "name": "The Climb",
-    "map_name": "The Climb",
+    "name": "険しい山道",
+    "map_name": "険しい山道",
     "act": 1,
     "has_waypoint": true,
     "is_town_area": false,
@@ -179,7 +179,7 @@
   },
   "1_1_7_1": {
     "id": "1_1_7_1",
-    "name": "The Lower Prison",
+    "name": "牢獄 -下層-",
     "map_name": "The Prison",
     "act": 1,
     "has_waypoint": true,
@@ -193,7 +193,7 @@
   },
   "1_1_7_2": {
     "id": "1_1_7_2",
-    "name": "The Upper Prison",
+    "name": "牢獄 -上層-",
     "map_name": null,
     "act": 1,
     "has_waypoint": false,
@@ -207,8 +207,8 @@
   },
   "1_1_8": {
     "id": "1_1_8",
-    "name": "Prisoner's Gate",
-    "map_name": "Prisoner's Gate",
+    "name": "囚人の門",
+    "map_name": "囚人の門",
     "act": 1,
     "has_waypoint": true,
     "is_town_area": false,
@@ -222,8 +222,8 @@
   },
   "1_1_9": {
     "id": "1_1_9",
-    "name": "The Ship Graveyard",
-    "map_name": "The Ship Graveyard",
+    "name": "船の墓場",
+    "map_name": "船の墓場",
     "act": 1,
     "has_waypoint": true,
     "is_town_area": false,
@@ -238,8 +238,8 @@
   },
   "1_2_9": {
     "id": "1_2_9",
-    "name": "The Western Forest",
-    "map_name": "The Western Forest",
+    "name": "西の森",
+    "map_name": "西の森",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -253,7 +253,7 @@
   },
   "1_1_9a": {
     "id": "1_1_9a",
-    "name": "The Ship Graveyard Cave",
+    "name": "船の墓場の洞窟",
     "map_name": null,
     "act": 1,
     "has_waypoint": false,
@@ -267,7 +267,7 @@
   },
   "1_1_11_1": {
     "id": "1_1_11_1",
-    "name": "The Cavern of Wrath",
+    "name": "憤怒の洞窟",
     "map_name": "Merveil's Caverns",
     "act": 1,
     "has_waypoint": true,
@@ -281,8 +281,8 @@
   },
   "1_2_7": {
     "id": "1_2_7",
-    "name": "The Riverways",
-    "map_name": "The Riverways",
+    "name": "川沿いの道",
+    "map_name": "川沿いの道",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -296,7 +296,7 @@
   },
   "1_2_10": {
     "id": "1_2_10",
-    "name": "The Weaver's Chambers",
+    "name": "編む者の巣穴",
     "map_name": null,
     "act": 2,
     "has_waypoint": false,
@@ -309,7 +309,7 @@
   },
   "1_1_11_2": {
     "id": "1_1_11_2",
-    "name": "The Cavern of Anger",
+    "name": "怒りの洞窟",
     "map_name": null,
     "act": 1,
     "has_waypoint": false,
@@ -323,8 +323,8 @@
   },
   "1_2_town": {
     "id": "1_2_town",
-    "name": "The Forest Encampment",
-    "map_name": "The Forest Encampment",
+    "name": "森の野営地",
+    "map_name": "森の野営地",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": true,
@@ -338,8 +338,8 @@
   },
   "1_2_12": {
     "id": "1_2_12",
-    "name": "The Wetlands",
-    "map_name": "The Wetlands",
+    "name": "湿地",
+    "map_name": "湿地",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -352,8 +352,8 @@
   },
   "1_2_1": {
     "id": "1_2_1",
-    "name": "The Southern Forest",
-    "map_name": "The Southern Forest",
+    "name": "南の森",
+    "map_name": "南の森",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -366,7 +366,7 @@
   },
   "1_2_2": {
     "id": "1_2_2",
-    "name": "The Old Fields",
+    "name": "荒廃農地",
     "map_name": null,
     "act": 2,
     "has_waypoint": false,
@@ -382,7 +382,7 @@
   },
   "1_2_11": {
     "id": "1_2_11",
-    "name": "The Vaal Ruins",
+    "name": "ヴァールの遺跡",
     "map_name": null,
     "act": 2,
     "has_waypoint": false,
@@ -396,7 +396,7 @@
   },
   "1_2_2a": {
     "id": "1_2_2a",
-    "name": "The Den",
+    "name": "獣の巣",
     "map_name": null,
     "act": 2,
     "has_waypoint": false,
@@ -410,8 +410,8 @@
   },
   "1_2_3": {
     "id": "1_2_3",
-    "name": "The Crossroads",
-    "map_name": "The Crossroads",
+    "name": "十字路",
+    "map_name": "十字路",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -426,8 +426,8 @@
   },
   "1_2_8": {
     "id": "1_2_8",
-    "name": "The Northern Forest",
-    "map_name": "The Northern Forest",
+    "name": "北の森",
+    "map_name": "北の森",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -441,8 +441,8 @@
   },
   "1_2_4": {
     "id": "1_2_4",
-    "name": "The Broken Bridge",
-    "map_name": "The Broken Bridge",
+    "name": "壊れた橋",
+    "map_name": "壊れた橋",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -454,7 +454,7 @@
   },
   "1_2_15": {
     "id": "1_2_15",
-    "name": "The Fellshrine Ruins",
+    "name": "フェルシュラインの遺跡",
     "map_name": null,
     "act": 2,
     "has_waypoint": false,
@@ -468,7 +468,7 @@
   },
   "1_2_6_1": {
     "id": "1_2_6_1",
-    "name": "The Chamber of Sins Level 1",
+    "name": "罪の間 -第一層-",
     "map_name": "The Chamber of Sins",
     "act": 2,
     "has_waypoint": true,
@@ -482,7 +482,7 @@
   },
   "1_2_13": {
     "id": "1_2_13",
-    "name": "The Dread Thicket",
+    "name": "恐怖の密林",
     "map_name": null,
     "act": 2,
     "has_waypoint": false,
@@ -495,8 +495,8 @@
   },
   "1_2_14_2": {
     "id": "1_2_14_2",
-    "name": "The Caverns",
-    "map_name": "The Caverns",
+    "name": "大洞窟",
+    "map_name": "大洞窟",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -511,8 +511,8 @@
   },
   "1_2_5_1": {
     "id": "1_2_5_1",
-    "name": "The Crypt Level 1",
-    "map_name": "The Crypt",
+    "name": "地下聖堂 -第一層-",
+    "map_name": "地下聖堂",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -525,7 +525,7 @@
   },
   "1_2_6_2": {
     "id": "1_2_6_2",
-    "name": "The Chamber of Sins Level 2",
+    "name": "罪の間 -第二層-",
     "map_name": null,
     "act": 2,
     "has_waypoint": false,
@@ -538,7 +538,7 @@
   },
   "1_2_14_3": {
     "id": "1_2_14_3",
-    "name": "The Ancient Pyramid",
+    "name": "古代のピラミッド",
     "map_name": null,
     "act": 2,
     "has_waypoint": false,
@@ -554,7 +554,7 @@
   },
   "1_2_5_2": {
     "id": "1_2_5_2",
-    "name": "The Crypt Level 2",
+    "name": "地下聖堂 -第二層-",
     "map_name": null,
     "act": 2,
     "has_waypoint": false,
@@ -567,8 +567,8 @@
   },
   "1_3_1": {
     "id": "1_3_1",
-    "name": "The City of Sarn",
-    "map_name": "The City of Sarn",
+    "name": "サーン市街",
+    "map_name": "サーン市街",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -583,8 +583,8 @@
   },
   "1_3_town": {
     "id": "1_3_town",
-    "name": "The Sarn Encampment",
-    "map_name": "The Sarn Encampment",
+    "name": "サーンの野営地",
+    "map_name": "サーンの野営地",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": true,
@@ -599,7 +599,7 @@
   },
   "1_3_2": {
     "id": "1_3_2",
-    "name": "The Slums",
+    "name": "スラム",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -614,7 +614,7 @@
   },
   "ffa1_1": {
     "id": "ffa1_1",
-    "name": "Sarn Arena",
+    "name": "サーンアリーナ",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -625,7 +625,7 @@
   },
   "Labyrinth_Airlock": {
     "id": "Labyrinth_Airlock",
-    "name": "Aspirants' Plaza",
+    "name": "志す者の広場",
     "map_name": null,
     "act": 3,
     "has_waypoint": true,
@@ -639,8 +639,8 @@
   },
   "1_3_3_1": {
     "id": "1_3_3_1",
-    "name": "The Crematorium",
-    "map_name": "The Crematorium",
+    "name": "火葬場",
+    "map_name": "火葬場",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -654,8 +654,8 @@
   },
   "1_3_10_1": {
     "id": "1_3_10_1",
-    "name": "The Sewers",
-    "map_name": "The Sewers",
+    "name": "下水道",
+    "map_name": "下水道",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -671,8 +671,8 @@
   },
   "2_8_town": {
     "id": "2_8_town",
-    "name": "The Sarn Encampment",
-    "map_name": "The Sarn Encampment",
+    "name": "サーンの野営地",
+    "map_name": "サーンの野営地",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": true,
@@ -687,8 +687,8 @@
   },
   "1_3_5": {
     "id": "1_3_5",
-    "name": "The Marketplace",
-    "map_name": "The Marketplace",
+    "name": "市場",
+    "map_name": "市場",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -702,8 +702,8 @@
   },
   "1_3_13": {
     "id": "1_3_13",
-    "name": "The Ebony Barracks",
-    "map_name": "The Ebony Barracks",
+    "name": "黒檀の兵舎",
+    "map_name": "黒檀の兵舎",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -717,8 +717,8 @@
   },
   "2_8_1": {
     "id": "2_8_1",
-    "name": "The Sarn Ramparts",
-    "map_name": "The Sarn Ramparts",
+    "name": "サーンの城壁",
+    "map_name": "サーンの城壁",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": false,
@@ -731,7 +731,7 @@
   },
   "2_8_2_1": {
     "id": "2_8_2_1",
-    "name": "The Toxic Conduits",
+    "name": "有毒な排水路",
     "map_name": null,
     "act": 8,
     "has_waypoint": false,
@@ -745,7 +745,7 @@
   },
   "ffa3_1": {
     "id": "ffa3_1",
-    "name": "Sarn Arena",
+    "name": "サーンアリーナ",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -756,7 +756,7 @@
   },
   "1_3_6": {
     "id": "1_3_6",
-    "name": "The Catacombs",
+    "name": "地下墓地",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -771,8 +771,8 @@
   },
   "1_3_7": {
     "id": "1_3_7",
-    "name": "The Battlefront",
-    "map_name": "The Battlefront",
+    "name": "戦場",
+    "map_name": "戦場",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -786,7 +786,7 @@
   },
   "1_3_14_1": {
     "id": "1_3_14_1",
-    "name": "The Lunaris Temple Level 1",
+    "name": "ルナリス寺院 -第一層-",
     "map_name": "The Lunaris Temple",
     "act": 3,
     "has_waypoint": true,
@@ -800,8 +800,8 @@
   },
   "1_3_15": {
     "id": "1_3_15",
-    "name": "The Imperial Gardens",
-    "map_name": "The Imperial Gardens",
+    "name": "帝国の庭園",
+    "map_name": "帝国の庭園",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -817,7 +817,7 @@
   },
   "2_7_12_2": {
     "id": "2_7_12_2",
-    "name": "The Temple of Decay Level 2",
+    "name": "堕落の寺院 -第二層-",
     "map_name": null,
     "act": 7,
     "has_waypoint": false,
@@ -833,8 +833,8 @@
   },
   "2_8_2_2": {
     "id": "2_8_2_2",
-    "name": "Doedre's Cesspool",
-    "map_name": "The Toxic Conduits",
+    "name": "ドードゥリの汚水槽",
+    "map_name": "有毒な排水路",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": false,
@@ -850,8 +850,8 @@
   },
   "1_3_8_1": {
     "id": "1_3_8_1",
-    "name": "The Solaris Temple Level 1",
-    "map_name": "The Solaris Temple Level 1",
+    "name": "ソラリス寺院 -第一層-",
+    "map_name": "ソラリス寺院 -第一層-",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -864,8 +864,8 @@
   },
   "1_3_9": {
     "id": "1_3_9",
-    "name": "The Docks",
-    "map_name": "The Docks",
+    "name": "船着場",
+    "map_name": "船着場",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -877,7 +877,7 @@
   },
   "1_3_14_2": {
     "id": "1_3_14_2",
-    "name": "The Lunaris Temple Level 2",
+    "name": "ルナリス寺院 -第二層-",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -892,8 +892,8 @@
   },
   "1_3_17_1": {
     "id": "1_3_17_1",
-    "name": "The Library",
-    "map_name": "The Library",
+    "name": "図書館",
+    "map_name": "図書館",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -906,8 +906,8 @@
   },
   "1_3_18_1": {
     "id": "1_3_18_1",
-    "name": "The Sceptre of God",
-    "map_name": "The Sceptre of God",
+    "name": "神の杖",
+    "map_name": "神の杖",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -920,7 +920,7 @@
   },
   "2_7_12_1": {
     "id": "2_7_12_1",
-    "name": "The Temple of Decay Level 1",
+    "name": "堕落の寺院 -第一層-",
     "map_name": null,
     "act": 7,
     "has_waypoint": false,
@@ -934,7 +934,7 @@
   },
   "2_8_3": {
     "id": "2_8_3",
-    "name": "The Grand Promenade",
+    "name": "大遊歩道",
     "map_name": null,
     "act": 8,
     "has_waypoint": false,
@@ -948,7 +948,7 @@
   },
   "2_8_8": {
     "id": "2_8_8",
-    "name": "The Quay",
+    "name": "波止場",
     "map_name": null,
     "act": 8,
     "has_waypoint": false,
@@ -962,8 +962,8 @@
   },
   "1_3_8_2": {
     "id": "1_3_8_2",
-    "name": "The Solaris Temple Level 2",
-    "map_name": "The Solaris Temple Level 2",
+    "name": "ソラリス寺院 -第二層-",
+    "map_name": "ソラリス寺院 -第二層-",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -977,7 +977,7 @@
   },
   "1_3_17_2": {
     "id": "1_3_17_2",
-    "name": "The Archives",
+    "name": "公文書館",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -992,7 +992,7 @@
   },
   "1_3_18_2": {
     "id": "1_3_18_2",
-    "name": "The Upper Sceptre of God",
+    "name": "神の杖 -上層-",
     "map_name": null,
     "act": 3,
     "has_waypoint": false,
@@ -1006,8 +1006,8 @@
   },
   "2_7_11": {
     "id": "2_7_11",
-    "name": "The Vaal City",
-    "map_name": "The Vaal City",
+    "name": "ヴァールの街",
+    "map_name": "ヴァールの街",
     "act": 7,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1020,8 +1020,8 @@
   },
   "2_8_5": {
     "id": "2_8_5",
-    "name": "The Bath House",
-    "map_name": "The Bath House",
+    "name": "浴場",
+    "map_name": "浴場",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1038,8 +1038,8 @@
   },
   "2_8_9": {
     "id": "2_8_9",
-    "name": "The Grain Gate",
-    "map_name": "The Grain Gate",
+    "name": "穀物倉庫",
+    "map_name": "穀物倉庫",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1053,8 +1053,8 @@
   },
   "1_4_1": {
     "id": "1_4_1",
-    "name": "The Aqueduct",
-    "map_name": "The Aqueduct",
+    "name": "水道橋",
+    "map_name": "水道橋",
     "act": 4,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1067,8 +1067,8 @@
   },
   "2_7_10": {
     "id": "2_7_10",
-    "name": "The Causeway",
-    "map_name": "The Causeway",
+    "name": "土手道",
+    "map_name": "土手道",
     "act": 7,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1083,8 +1083,8 @@
   },
   "2_8_6": {
     "id": "2_8_6",
-    "name": "The Lunaris Concourse",
-    "map_name": "The Lunaris Concourse",
+    "name": "ルナリスの中央広場",
+    "map_name": "ルナリスの中央広場",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1098,7 +1098,7 @@
   },
   "2_8_4": {
     "id": "2_8_4",
-    "name": "The High Gardens",
+    "name": "空中庭園",
     "map_name": null,
     "act": 8,
     "has_waypoint": false,
@@ -1111,7 +1111,7 @@
   },
   "2_8_14": {
     "id": "2_8_14",
-    "name": "The Hidden Underbelly",
+    "name": "隠れた裏道",
     "map_name": null,
     "act": 8,
     "has_waypoint": false,
@@ -1126,8 +1126,8 @@
   },
   "2_8_10": {
     "id": "2_8_10",
-    "name": "The Imperial Fields",
-    "map_name": "The Imperial Fields",
+    "name": "帝国の穀倉地帯",
+    "map_name": "帝国の穀倉地帯",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1140,8 +1140,8 @@
   },
   "1_4_town": {
     "id": "1_4_town",
-    "name": "Highgate",
-    "map_name": "Highgate",
+    "name": "ハイゲート",
+    "map_name": "ハイゲート",
     "act": 4,
     "has_waypoint": true,
     "is_town_area": true,
@@ -1156,8 +1156,8 @@
   },
   "2_7_8": {
     "id": "2_7_8",
-    "name": "The Northern Forest",
-    "map_name": "The Northern Forest",
+    "name": "北の森",
+    "map_name": "北の森",
     "act": 7,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1171,7 +1171,7 @@
   },
   "2_8_7_1_": {
     "id": "2_8_7_1_",
-    "name": "The Lunaris Temple Level 1",
+    "name": "ルナリス寺院 -第一層-",
     "map_name": "The Lunaris Temple",
     "act": 8,
     "has_waypoint": true,
@@ -1185,7 +1185,7 @@
   },
   "2_8_13": {
     "id": "2_8_13",
-    "name": "The Harbour Bridge",
+    "name": "港の橋",
     "map_name": null,
     "act": 8,
     "has_waypoint": false,
@@ -1201,8 +1201,8 @@
   },
   "2_8_11": {
     "id": "2_8_11",
-    "name": "The Solaris Concourse",
-    "map_name": "The Solaris Concourse",
+    "name": "ソラリスの中央広場",
+    "map_name": "ソラリスの中央広場",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1217,7 +1217,7 @@
   },
   "2_8_12_1": {
     "id": "2_8_12_1",
-    "name": "The Solaris Temple Level 1",
+    "name": "ソラリス寺院 -第一層-",
     "map_name": "The Solaris Temple",
     "act": 8,
     "has_waypoint": true,
@@ -1232,7 +1232,7 @@
   },
   "1_4_2": {
     "id": "1_4_2",
-    "name": "The Dried Lake",
+    "name": "干上がった湖",
     "map_name": null,
     "act": 4,
     "has_waypoint": false,
@@ -1247,7 +1247,7 @@
   },
   "1_4_3_1": {
     "id": "1_4_3_1",
-    "name": "The Mines Level 1",
+    "name": "鉱山 -第一層-",
     "map_name": null,
     "act": 4,
     "has_waypoint": false,
@@ -1263,7 +1263,7 @@
   },
   "1_4_7": {
     "id": "1_4_7",
-    "name": "The Ascent",
+    "name": "頂への道",
     "map_name": null,
     "act": 4,
     "has_waypoint": false,
@@ -1279,8 +1279,8 @@
   },
   "2_7_7": {
     "id": "2_7_7",
-    "name": "The Ashen Fields",
-    "map_name": "The Ashen Fields",
+    "name": "焼け野原",
+    "map_name": "焼け野原",
     "act": 7,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1293,7 +1293,7 @@
   },
   "2_7_9": {
     "id": "2_7_9",
-    "name": "The Dread Thicket",
+    "name": "恐怖の密林",
     "map_name": null,
     "act": 7,
     "has_waypoint": false,
@@ -1308,7 +1308,7 @@
   },
   "2_8_7_2": {
     "id": "2_8_7_2",
-    "name": "The Lunaris Temple Level 2",
+    "name": "ルナリス寺院 -第二層-",
     "map_name": null,
     "act": 8,
     "has_waypoint": false,
@@ -1323,8 +1323,8 @@
   },
   "2_9_1": {
     "id": "2_9_1",
-    "name": "The Blood Aqueduct",
-    "map_name": "The Blood Aqueduct",
+    "name": "血の水道橋",
+    "map_name": "血の水道橋",
     "act": 9,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1337,7 +1337,7 @@
   },
   "2_8_12_2": {
     "id": "2_8_12_2",
-    "name": "The Solaris Temple Level 2",
+    "name": "ソラリス寺院 -第二層-",
     "map_name": null,
     "act": 8,
     "has_waypoint": false,
@@ -1352,7 +1352,7 @@
   },
   "1_4_3_2": {
     "id": "1_4_3_2",
-    "name": "The Mines Level 2",
+    "name": "鉱山 -第二層-",
     "map_name": null,
     "act": 4,
     "has_waypoint": false,
@@ -1366,8 +1366,8 @@
   },
   "1_5_1": {
     "id": "1_5_1",
-    "name": "The Slave Pens",
-    "map_name": "The Slave Pens",
+    "name": "奴隷収容所",
+    "map_name": "奴隷収容所",
     "act": 5,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1380,8 +1380,8 @@
   },
   "2_7_6": {
     "id": "2_7_6",
-    "name": "The Den",
-    "map_name": "The Den",
+    "name": "獣の巣",
+    "map_name": "獣の巣",
     "act": 7,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1394,8 +1394,8 @@
   },
   "2_9_town": {
     "id": "2_9_town",
-    "name": "Highgate",
-    "map_name": "Highgate",
+    "name": "ハイゲート",
+    "map_name": "ハイゲート",
     "act": 9,
     "has_waypoint": true,
     "is_town_area": true,
@@ -1408,8 +1408,8 @@
   },
   "1_4_3_3": {
     "id": "1_4_3_3",
-    "name": "The Crystal Veins",
-    "map_name": "The Crystal Veins",
+    "name": "水晶鉱脈",
+    "map_name": "水晶鉱脈",
     "act": 4,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1426,8 +1426,8 @@
   },
   "1_5_town": {
     "id": "1_5_town",
-    "name": "Overseer's Tower",
-    "map_name": "Overseer's Tower",
+    "name": "監督官の塔",
+    "map_name": "監督官の塔",
     "act": 5,
     "has_waypoint": true,
     "is_town_area": true,
@@ -1440,7 +1440,7 @@
   },
   "2_7_5_2": {
     "id": "2_7_5_2",
-    "name": "The Chamber of Sins Level 2",
+    "name": "罪の間 -第二層-",
     "map_name": null,
     "act": 7,
     "has_waypoint": false,
@@ -1456,7 +1456,7 @@
   },
   "2_9_2": {
     "id": "2_9_2",
-    "name": "The Descent",
+    "name": "谷底への道",
     "map_name": null,
     "act": 9,
     "has_waypoint": false,
@@ -1470,7 +1470,7 @@
   },
   "1_4_4_1": {
     "id": "1_4_4_1",
-    "name": "Kaom's Dream",
+    "name": "カオムの夢",
     "map_name": null,
     "act": 4,
     "has_waypoint": false,
@@ -1484,7 +1484,7 @@
   },
   "1_4_5_1": {
     "id": "1_4_5_1",
-    "name": "Daresso's Dream",
+    "name": "ダレッソの夢",
     "map_name": null,
     "act": 4,
     "has_waypoint": false,
@@ -1498,7 +1498,7 @@
   },
   "1_4_6_1": {
     "id": "1_4_6_1",
-    "name": "The Belly of the Beast Level 1",
+    "name": "魔獣の内部 -第一層-",
     "map_name": null,
     "act": 4,
     "has_waypoint": false,
@@ -1512,7 +1512,7 @@
   },
   "1_5_2": {
     "id": "1_5_2",
-    "name": "The Control Blocks",
+    "name": "奴隷管理区画",
     "map_name": null,
     "act": 5,
     "has_waypoint": false,
@@ -1527,7 +1527,7 @@
   },
   "2_7_5_1": {
     "id": "2_7_5_1",
-    "name": "The Chamber of Sins Level 1",
+    "name": "罪の間 -第一層-",
     "map_name": "The Chamber of Sins",
     "act": 7,
     "has_waypoint": true,
@@ -1544,8 +1544,8 @@
   },
   "2_9_3": {
     "id": "2_9_3",
-    "name": "The Vastiri Desert",
-    "map_name": "The Vastiri Desert",
+    "name": "ヴァスティリ砂漠",
+    "map_name": "ヴァスティリ砂漠",
     "act": 9,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1561,8 +1561,8 @@
   },
   "1_4_4_3": {
     "id": "1_4_4_3",
-    "name": "Kaom's Stronghold",
-    "map_name": "Kaom's Stronghold",
+    "name": "カオムの要塞",
+    "map_name": "カオムの要塞",
     "act": 4,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1576,8 +1576,8 @@
   },
   "1_4_5_2": {
     "id": "1_4_5_2",
-    "name": "The Grand Arena",
-    "map_name": "The Grand Arena",
+    "name": "大闘技場",
+    "map_name": "大闘技場",
     "act": 4,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1591,7 +1591,7 @@
   },
   "1_4_6_2": {
     "id": "1_4_6_2",
-    "name": "The Belly of the Beast Level 2",
+    "name": "魔獣の内部 -第二層-",
     "map_name": null,
     "act": 4,
     "has_waypoint": false,
@@ -1607,8 +1607,8 @@
   },
   "1_5_3": {
     "id": "1_5_3",
-    "name": "Oriath Square",
-    "map_name": "Oriath Square",
+    "name": "オリアス広場",
+    "map_name": "オリアス広場",
     "act": 5,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1621,8 +1621,8 @@
   },
   "2_7_2": {
     "id": "2_7_2",
-    "name": "The Crossroads",
-    "map_name": "The Crossroads",
+    "name": "十字路",
+    "map_name": "十字路",
     "act": 7,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1636,7 +1636,7 @@
   },
   "2_7_5_map": {
     "id": "2_7_5_map",
-    "name": "Maligaro's Sanctum",
+    "name": "マリガロの聖域",
     "map_name": null,
     "act": 7,
     "has_waypoint": false,
@@ -1649,7 +1649,7 @@
   },
   "2_9_4": {
     "id": "2_9_4",
-    "name": "The Oasis",
+    "name": "オアシス",
     "map_name": null,
     "act": 9,
     "has_waypoint": false,
@@ -1662,8 +1662,8 @@
   },
   "2_9_5": {
     "id": "2_9_5",
-    "name": "The Foothills",
-    "map_name": "The Foothills",
+    "name": "山麓",
+    "map_name": "山麓",
     "act": 9,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1677,8 +1677,8 @@
   },
   "1_4_6_3": {
     "id": "1_4_6_3",
-    "name": "The Harvest",
-    "map_name": "The Harvest",
+    "name": "摘出",
+    "map_name": "摘出",
     "act": 4,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1691,8 +1691,8 @@
   },
   "1_5_4": {
     "id": "1_5_4",
-    "name": "The Templar Courts",
-    "map_name": "The Templar Courts",
+    "name": "テンプラーの裁判所",
+    "map_name": "テンプラーの裁判所",
     "act": 5,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1705,7 +1705,7 @@
   },
   "2_7_1": {
     "id": "2_7_1",
-    "name": "The Broken Bridge",
+    "name": "壊れた橋",
     "map_name": null,
     "act": 7,
     "has_waypoint": false,
@@ -1719,7 +1719,7 @@
   },
   "2_7_3": {
     "id": "2_7_3",
-    "name": "The Fellshrine Ruins",
+    "name": "フェルシュラインの遺跡",
     "map_name": null,
     "act": 7,
     "has_waypoint": false,
@@ -1734,7 +1734,7 @@
   },
   "2_9_6": {
     "id": "2_9_6",
-    "name": "The Boiling Lake",
+    "name": "沸き立つ湖",
     "map_name": null,
     "act": 9,
     "has_waypoint": false,
@@ -1749,8 +1749,8 @@
   },
   "2_9_7": {
     "id": "2_9_7",
-    "name": "The Tunnel",
-    "map_name": "The Tunnel",
+    "name": "坑道",
+    "map_name": "坑道",
     "act": 9,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1765,8 +1765,8 @@
   },
   "1_5_5": {
     "id": "1_5_5",
-    "name": "The Chamber of Innocence",
-    "map_name": "The Chamber of Innocence",
+    "name": "イノセンスの間",
+    "map_name": "イノセンスの間",
     "act": 5,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1781,8 +1781,8 @@
   },
   "2_7_town": {
     "id": "2_7_town",
-    "name": "The Bridge Encampment",
-    "map_name": "The Bridge Encampment",
+    "name": "橋の野営地",
+    "map_name": "橋の野営地",
     "act": 7,
     "has_waypoint": true,
     "is_town_area": true,
@@ -1795,7 +1795,7 @@
   },
   "SanctumFoyer_Fellshrine": {
     "id": "SanctumFoyer_Fellshrine",
-    "name": "The Forbidden Sanctum",
+    "name": "禁断のサンクタム",
     "map_name": null,
     "act": 7,
     "has_waypoint": false,
@@ -1808,8 +1808,8 @@
   },
   "2_7_4": {
     "id": "2_7_4",
-    "name": "The Crypt",
-    "map_name": "The Crypt",
+    "name": "地下聖堂",
+    "map_name": "地下聖堂",
     "act": 7,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1823,8 +1823,8 @@
   },
   "2_9_8": {
     "id": "2_9_8",
-    "name": "The Quarry",
-    "map_name": "The Quarry",
+    "name": "採石場",
+    "map_name": "採石場",
     "act": 9,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1840,7 +1840,7 @@
   },
   "1_5_4b": {
     "id": "1_5_4b",
-    "name": "The Torched Courts",
+    "name": "焼けた裁判所",
     "map_name": null,
     "act": 5,
     "has_waypoint": false,
@@ -1854,8 +1854,8 @@
   },
   "2_6_15": {
     "id": "2_6_15",
-    "name": "The Brine King's Reef",
-    "map_name": "The Brine King's Reef",
+    "name": "海水の王の岩礁",
+    "map_name": "海水の王の岩礁",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1868,7 +1868,7 @@
   },
   "2_9_9": {
     "id": "2_9_9",
-    "name": "The Refinery",
+    "name": "精錬所",
     "map_name": null,
     "act": 9,
     "has_waypoint": false,
@@ -1883,7 +1883,7 @@
   },
   "2_9_10_1": {
     "id": "2_9_10_1",
-    "name": "The Belly of the Beast",
+    "name": "魔獣の内部",
     "map_name": null,
     "act": 9,
     "has_waypoint": false,
@@ -1897,8 +1897,8 @@
   },
   "1_5_3b": {
     "id": "1_5_3b",
-    "name": "The Ruined Square",
-    "map_name": "The Ruined Square",
+    "name": "破壊された広場",
+    "map_name": "破壊された広場",
     "act": 5,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1913,8 +1913,8 @@
   },
   "2_6_14": {
     "id": "2_6_14",
-    "name": "The Beacon",
-    "map_name": "The Beacon",
+    "name": "ビーコン",
+    "map_name": "ビーコン",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1929,7 +1929,7 @@
   },
   "2_9_10_2": {
     "id": "2_9_10_2",
-    "name": "The Rotting Core",
+    "name": "腐った核",
     "map_name": null,
     "act": 9,
     "has_waypoint": false,
@@ -1943,7 +1943,7 @@
   },
   "1_5_6": {
     "id": "1_5_6",
-    "name": "The Ossuary",
+    "name": "納骨堂",
     "map_name": null,
     "act": 5,
     "has_waypoint": false,
@@ -1958,8 +1958,8 @@
   },
   "1_5_8": {
     "id": "1_5_8",
-    "name": "The Cathedral Rooftop",
-    "map_name": "The Cathedral Rooftop",
+    "name": "大聖堂の屋上",
+    "map_name": "大聖堂の屋上",
     "act": 5,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1972,8 +1972,8 @@
   },
   "1_5_7": {
     "id": "1_5_7",
-    "name": "The Reliquary",
-    "map_name": "The Reliquary",
+    "name": "聖廟",
+    "map_name": "聖廟",
     "act": 5,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1987,7 +1987,7 @@
   },
   "2_6_13": {
     "id": "2_6_13",
-    "name": "The Cavern of Anger",
+    "name": "怒りの洞窟",
     "map_name": null,
     "act": 6,
     "has_waypoint": false,
@@ -2001,8 +2001,8 @@
   },
   "2_10_town": {
     "id": "2_10_town",
-    "name": "Oriath Docks",
-    "map_name": "Oriath Docks",
+    "name": "オリアスの船着場",
+    "map_name": "オリアスの船着場",
     "act": 10,
     "has_waypoint": true,
     "is_town_area": true,
@@ -2017,8 +2017,8 @@
   },
   "2_6_town": {
     "id": "2_6_town",
-    "name": "Lioneye's Watch",
-    "map_name": "Lioneye's Watch",
+    "name": "ライオンアイの見張り場",
+    "map_name": "ライオンアイの見張り場",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": true,
@@ -2032,8 +2032,8 @@
   },
   "2_6_12": {
     "id": "2_6_12",
-    "name": "The Southern Forest",
-    "map_name": "The Southern Forest",
+    "name": "南の森",
+    "map_name": "南の森",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2046,7 +2046,7 @@
   },
   "2_10_1": {
     "id": "2_10_1",
-    "name": "The Cathedral Rooftop",
+    "name": "大聖堂の屋上",
     "map_name": null,
     "act": 10,
     "has_waypoint": false,
@@ -2060,7 +2060,7 @@
   },
   "2_10_6": {
     "id": "2_10_6",
-    "name": "The Feeding Trough",
+    "name": "餌場",
     "map_name": null,
     "act": 10,
     "has_waypoint": false,
@@ -2076,8 +2076,8 @@
   },
   "2_11_endgame_town": {
     "id": "2_11_endgame_town",
-    "name": "Karui Shores",
-    "map_name": "Karui Shores",
+    "name": "カルイの海岸",
+    "map_name": "カルイの海岸",
     "act": 11,
     "has_waypoint": true,
     "is_town_area": true,
@@ -2091,8 +2091,8 @@
   },
   "2_6_2": {
     "id": "2_6_2",
-    "name": "The Coast",
-    "map_name": "The Coast",
+    "name": "海岸",
+    "map_name": "海岸",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2106,7 +2106,7 @@
   },
   "2_6_1": {
     "id": "2_6_1",
-    "name": "The Twilight Strand",
+    "name": "黄昏の岸辺",
     "map_name": null,
     "act": 6,
     "has_waypoint": false,
@@ -2119,8 +2119,8 @@
   },
   "2_6_10": {
     "id": "2_6_10",
-    "name": "The Riverways",
-    "map_name": "The Riverways",
+    "name": "川沿いの道",
+    "map_name": "川沿いの道",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2134,8 +2134,8 @@
   },
   "2_10_2": {
     "id": "2_10_2",
-    "name": "The Ravaged Square",
-    "map_name": "The Ravaged Square",
+    "name": "荒廃した広場",
+    "map_name": "荒廃した広場",
     "act": 10,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2152,7 +2152,7 @@
   },
   "2_10_5": {
     "id": "2_10_5",
-    "name": "The Canals",
+    "name": "運河",
     "map_name": null,
     "act": 10,
     "has_waypoint": false,
@@ -2166,7 +2166,7 @@
   },
   "2_6_4": {
     "id": "2_6_4",
-    "name": "The Mud Flats",
+    "name": "ぬかるみの干潟",
     "map_name": null,
     "act": 6,
     "has_waypoint": false,
@@ -2180,7 +2180,7 @@
   },
   "2_6_3": {
     "id": "2_6_3",
-    "name": "The Tidal Island",
+    "name": "陸続きの島",
     "map_name": null,
     "act": 6,
     "has_waypoint": false,
@@ -2193,8 +2193,8 @@
   },
   "2_6_9": {
     "id": "2_6_9",
-    "name": "The Western Forest",
-    "map_name": "The Western Forest",
+    "name": "西の森",
+    "map_name": "西の森",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2209,7 +2209,7 @@
   },
   "2_6_11": {
     "id": "2_6_11",
-    "name": "The Wetlands",
+    "name": "湿地",
     "map_name": null,
     "act": 6,
     "has_waypoint": false,
@@ -2222,7 +2222,7 @@
   },
   "2_10_3": {
     "id": "2_10_3",
-    "name": "The Torched Courts",
+    "name": "焼けた裁判所",
     "map_name": null,
     "act": 10,
     "has_waypoint": false,
@@ -2236,7 +2236,7 @@
   },
   "2_10_9": {
     "id": "2_10_9",
-    "name": "The Ossuary",
+    "name": "納骨堂",
     "map_name": null,
     "act": 10,
     "has_waypoint": false,
@@ -2251,8 +2251,8 @@
   },
   "2_10_8": {
     "id": "2_10_8",
-    "name": "The Reliquary",
-    "map_name": "The Reliquary",
+    "name": "聖廟",
+    "map_name": "聖廟",
     "act": 10,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2264,8 +2264,8 @@
   },
   "2_10_7": {
     "id": "2_10_7",
-    "name": "The Control Blocks",
-    "map_name": "The Control Blocks",
+    "name": "奴隷管理区画",
+    "map_name": "奴隷管理区画",
     "act": 10,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2277,7 +2277,7 @@
   },
   "2_6_5": {
     "id": "2_6_5",
-    "name": "The Karui Fortress",
+    "name": "カルイの要塞",
     "map_name": null,
     "act": 6,
     "has_waypoint": false,
@@ -2293,8 +2293,8 @@
   },
   "2_6_8": {
     "id": "2_6_8",
-    "name": "Prisoner's Gate",
-    "map_name": "Prisoner's Gate",
+    "name": "囚人の門",
+    "map_name": "囚人の門",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2307,8 +2307,8 @@
   },
   "2_10_4": {
     "id": "2_10_4",
-    "name": "The Desecrated Chambers",
-    "map_name": "The Desecrated Chambers",
+    "name": "冒涜された広間",
+    "map_name": "冒涜された広間",
     "act": 10,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2322,8 +2322,8 @@
   },
   "2_6_6": {
     "id": "2_6_6",
-    "name": "The Ridge",
-    "map_name": "The Ridge",
+    "name": "尾根",
+    "map_name": "尾根",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2336,7 +2336,7 @@
   },
   "2_6_7_2": {
     "id": "2_6_7_2",
-    "name": "Shavronne's Tower",
+    "name": "シャヴロンの塔",
     "map_name": null,
     "act": 6,
     "has_waypoint": false,
@@ -2352,7 +2352,7 @@
   },
   "2_6_7_1": {
     "id": "2_6_7_1",
-    "name": "The Lower Prison",
+    "name": "牢獄 -下層-",
     "map_name": "The Prison",
     "act": 6,
     "has_waypoint": true,

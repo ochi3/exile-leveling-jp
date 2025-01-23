@@ -1,14 +1,14 @@
 #section Act 10
 {waypoint|2_10_town} #Oriath Docks
 ➞ {enter|2_10_1} #The Cathedral Rooftop
-➞ {arena|Cathedral Apex}, kill {kill|Plaguewing}
+➞ {arena|Cathedral Apex}, kill {kill|プレイグウィング}
     #sub Go {dir|0}
 ➞ {enter|2_10_2} #The Ravaged Square
-Place {portal|set} in the plaza
+少し歩いて開けたところに {portal|set} を設置
 ➞ {enter|2_10_7} #The Control Blocks
     #sub Go {dir|180}
 {waypoint|2_10_town} #Oriath Docks
-Hand in {quest|a10q1} #Safe Passage
+ラニ {quest|a10q1} #Safe Passage
 Take {portal|use}
 Get {waypoint_get}
     #sub Go {dir|45}
@@ -22,37 +22,38 @@ Get {waypoint_get}
 {ascend|merciless}
 Get {crafting|3_Labyrinth_boss_3}
 {waypoint|2_10_7} #The Control Blocks
-Find and kill {kill|Vilenta}
+Find and kill {kill|ヴァイレンタ}
 {logout}
-Hand in {quest|a10q6} #Vilenta's Vengeance
+ラニ {quest|a10q6} #Vilenta's Vengeance
 {waypoint|2_10_2} #The Ravaged Square
 ➞ {enter|2_10_3} #The Torched Courts
     #sub Go {dir|135}
 ➞ {enter|2_10_4} #The Desecrated Chambers
-    #sub Loop around clockwise
+    #sub 時計回りに回る
 Get {crafting}
-➞ {arena|Sanctum of Innocence}, kill {kill|Avarius, Reassembled}, take {quest_text|The Staff of Purity}
-    #sub Go {dir|315} counter-clockwise spiral
+➞ {arena|Sanctum of Innocence}, kill {kill|再構築されし者、アヴァリウス}, take {quest_text|浄化の杖}
+    #sub {dir|315}反時計回りに回る
 {logout}
-Talk to {generic|Bannon}
-Hand in {quest|a10q2} #Death and Rebirth
+Talk to {generic|バノン}
+ラニ {quest|a10q2} #Death and Rebirth
 {waypoint|2_10_2} #The Ravaged Square
-Talk to {generic|Innocence}
+Talk to {generic|イノセンス}
     #sub Go {dir|45}
 ➞ {enter|2_10_5} #The Canals
 ➞ {enter|2_10_6} #The Feeding Trough
 Get {crafting}
-Talk to {generic|Sin}
-➞ {arena|Altar of Hunger}, kill {kill|Kitava, the Insatiable}
-Talk to {generic|Sin} ➞ {enter|2_10_town} #Oriath Docks
-Talk to {generic|Lilly Roth}, Set Sail from Oriath
+Talk to {generic|シン}
+➞ {arena|Altar of Hunger}, kill {kill|貪欲なる者、キタヴァ}
+Talk to {generic|シン} ➞ {enter|2_10_town} #Oriath Docks
+Talk to {generic|リリィ・ロス}と話し、オリアスから出航してください
 ➞ {enter|2_11_endgame_town} #Karui Shores
 Get {crafting}
+Relog
 #ifdef BANDIT_KILL
-    Hand in {quest|a10q3} #An End to Hunger
-        #sub Type {generic|/passives} in chat to confirm that you have all 24 passives from quests
+    ラニ {quest|a10q3} #An End to Hunger
+        #sub チャットに{generic|/passives}と入力して、クエストからすべての24パッシブを取得していることを確認してください
 #endif
 #ifndef BANDIT_KILL
-    Hand in {quest|a10q3} #An End to Hunger
-        #sub Type {generic|/passives} in chat to confirm that you have all 22 passives from quests
+    ラニ {quest|a10q3} #An End to Hunger
+        #sub チャットに{generic|/passives}と入力して、クエストからすべての22パッシブを取得していることを確認してください
 #endif

@@ -1,49 +1,49 @@
 #section Act 5
 ➞ {enter|1_5_1} #The Slave Pens
-Find and kill {kill|Overseer Krow}
-    #sub Go {dir|180} as much as possible
+Find and kill {kill|監督官、クロウ}
+    #sub 可能な限り{dir|180}に進んでください
     #sub Go {dir|270}
 ➞ {enter|1_5_town} #Overseer's Tower
-Hand in {quest|a5q1b} #Return to Oriath
+ラニ {quest|a5q1b} #Return to Oriath
 ➞ {enter|1_5_2} #The Control Blocks
-Find and take {quest_text|Miasmeter}
-    #sub Go {dir|270} as much as possible
-Find and kill {kill|Justicar Casticus}, take {quest_text|Eyes of Zeal}
-    #sub Go {dir|45} from {quest_text|Miasmeter}
+Find and take {quest_text|瘴気計}
+    #sub 可能な限り{dir|270}に進んでください
+Find and kill {kill|司法官カスティカス}, take {quest_text|熱情の目}
+    #sub {quest_text|瘴気計}から{dir|45}に進んでください
 ➞ {enter|1_5_3} #Oriath Square
 ➞ {enter|1_5_4} #The Templar Courts
     #sub Go {dir|45}
 ➞ {enter|1_5_5} #The Chamber of Innocence
-    #sub Loop around clockwise
-    #sub Recommended Level: 37+
-    #sub Farm Level: 40-42
+    #sub 時計回りに回り込んで進んでください
+    #sub 推奨レベル: 37以上
+    #sub 推奨ファームレベル: 40～42
 Get {crafting}
-➞ {arena|Sanctum of Innocence}, kill {kill|High Templar Avarius}
-    #sub Go {dir|315} counter-clockwise spiral
+➞ {arena|Sanctum of Innocence}, kill {kill|ハイテンプラー、アヴァリアス}
+    #sub {dir|315}に進み、反時計回りの渦巻きを描いてください
 {logout}
-Hand in {quest|a5q2} #The Key to Freedom
-Hand in {quest|a5q3} #In Service to Science
-Hand in {quest|a5q4} #Death to Purity
+ラニ {quest|a5q2} #The Key to Freedom
+ヴァイレンタ {quest|a5q3} #In Service to Science
+ラニ {quest|a5q4} #Death to Purity
 {waypoint|1_5_5} #The Chamber of Innocence
 ➞ {enter|1_5_4b} #The Torched Courts
 ➞ {enter|1_5_3b} #The Ruined Square
-    #sub Loop around counter-clockwise
+    #sub 反時計回りに回り込んで進んでください
 Get {waypoint_get}
     #sub Go {dir|315}
 ➞ {enter|1_5_6} #The Ossuary
-Find and take {quest_text|Sign of Purity}
+Find and take {quest_text|浄化の印}
 Get {crafting}
 {logout}
 {waypoint|1_5_3b} #The Ruined Square
 ➞ {enter|1_5_7} #The Reliquary
-    #sub Go {dir|225} find the plaza
+    #sub {dir|225}に進み、広場を見つけてください
     #sub Go {dir|180}
-Find 3x{quest_text|Kitava's Torment}, search in the corners of the map
+3つの{quest_text|キタヴァの苦悩}を見つけ、マップの隅を探してください
 Get {crafting}
 {logout}
-Hand in {quest|a5q7} #Kitava's Torments
+ラニ {quest|a5q7} #Kitava's Torments
 {waypoint|1_5_3b} #The Ruined Square
 ➞ {enter|1_5_8} #The Cathedral Rooftop
     #sub Go {dir|225}
-➞ {arena|Cathedral Apex}, kill {kill|Kitava, the Insatiable}
-Talk to {generic|Lilly Roth}, Sail to Wraeclast
+➞ {arena|Cathedral Apex}, kill {kill|貪欲なる者、キタヴァ}
+{generic|リリィ・ロス}に話しかけ、レイクラストへ航海してください

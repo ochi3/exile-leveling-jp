@@ -1,11 +1,11 @@
 {
   "a1q1": {
     "id": "a1q1",
-    "name": "Enemy at the Gate",
+    "name": "立ちふさがる敵",
     "act": "1",
     "reward_offers": {
       "a1q1": {
-        "quest_npc": "Tarkleigh",
+        "quest_npc": "タークリー",
         "quest": {
           "Metadata/Items/Gems/SkillGemFreezingPulse": {
             "classes": [
@@ -481,11 +481,11 @@
   },
   "a1q5": {
     "id": "a1q5",
-    "name": "Mercy Mission",
+    "name": "慈善活動",
     "act": "1",
     "reward_offers": {
       "a1q5": {
-        "quest_npc": "Nessa",
+        "quest_npc": "ネッサ",
         "quest": {
           "Metadata/Items/Flasks/FlaskLife2": {
             "classes": []
@@ -636,7 +636,7 @@
         }
       },
       "a1q5b": {
-        "quest_npc": "Nessa",
+        "quest_npc": "ネッサ",
         "quest": {
           "Metadata/Items/Gems/SupportGemElementalProliferation": {
             "classes": [
@@ -744,11 +744,11 @@
   },
   "a1q4": {
     "id": "a1q4",
-    "name": "Breaking Some Eggs",
+    "name": "卵の破壊",
     "act": "1",
     "reward_offers": {
       "a1q4": {
-        "quest_npc": "Tarkleigh",
+        "quest_npc": "タークリー",
         "quest": {
           "Metadata/Items/Gems/SkillGemFrostBomb": {
             "classes": [
@@ -1061,7 +1061,7 @@
         }
       },
       "a1q4b": {
-        "quest_npc": "Tarkleigh",
+        "quest_npc": "タークリー",
         "quest": {
           "Metadata/Items/Gems/SkillGemFrostblink": {
             "classes": [
@@ -1112,11 +1112,11 @@
   },
   "a1q8": {
     "id": "a1q8",
-    "name": "A Dirty Job",
+    "name": "汚れ仕事",
     "act": "1",
     "reward_offers": {
       "a1q8": {
-        "quest_npc": "Tarkleigh",
+        "quest_npc": "タークリー",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/Book-a1q8": {
             "classes": []
@@ -1128,11 +1128,11 @@
   },
   "a1q7": {
     "id": "a1q7",
-    "name": "The Dweller of the Deep",
+    "name": "海の住人",
     "act": "1",
     "reward_offers": {
       "a1q7": {
-        "quest_npc": "Tarkleigh",
+        "quest_npc": "タークリー",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/Book-a1q7": {
             "classes": []
@@ -1144,11 +1144,11 @@
   },
   "a1q2": {
     "id": "a1q2",
-    "name": "The Caged Brute",
+    "name": "檻の中のけだもの",
     "act": "1",
     "reward_offers": {
       "a1q2b": {
-        "quest_npc": "Nessa",
+        "quest_npc": "ネッサ",
         "quest": {
           "Metadata/Items/Gems/SupportGemAddedLightningDamage": {
             "classes": [
@@ -1601,7 +1601,7 @@
         }
       },
       "a1q2": {
-        "quest_npc": "Tarkleigh",
+        "quest_npc": "タークリー",
         "quest": {
           "Metadata/Items/Gems/SkillGemClarity": {
             "classes": [
@@ -1874,11 +1874,11 @@
   },
   "a1q6": {
     "id": "a1q6",
-    "name": "The Marooned Mariner",
+    "name": "取り残された水夫",
     "act": "1",
     "reward_offers": {
       "a1q6": {
-        "quest_npc": "Bestel",
+        "quest_npc": "ベストル",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/Book-a1q6": {
             "classes": []
@@ -1890,11 +1890,11 @@
   },
   "a1q3": {
     "id": "a1q3",
-    "name": "The Siren's Cadence",
+    "name": "セイレーンの歌声",
     "act": "1",
     "reward_offers": {
       "a1q3": {
-        "quest_npc": "Nessa",
+        "quest_npc": "ネッサ",
         "quest": {
           "Metadata/Items/Gems/SkillGemIceNova": {
             "classes": [
@@ -2538,11 +2538,11 @@
   },
   "a1q9": {
     "id": "a1q9",
-    "name": "The Way Forward",
+    "name": "先に進むために",
     "act": "1",
     "reward_offers": {
       "a1q9": {
-        "quest_npc": "Bestel",
+        "quest_npc": "ベストル",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/Book-a1q9": {
             "classes": []
@@ -2554,17 +2554,17 @@
   },
   "a2q11": {
     "id": "a2q11",
-    "name": "The Way Forward",
+    "name": "先に進むために",
     "act": "2",
     "reward_offers": {}
   },
   "a2q5": {
     "id": "a2q5",
-    "name": "Through Sacred Ground",
+    "name": "聖なる地を通って",
     "act": "2",
     "reward_offers": {
       "a2q5": {
-        "quest_npc": "Yeena",
+        "quest_npc": "イーナ",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/Book-a2q5": {
             "classes": []
@@ -2576,11 +2576,11 @@
   },
   "a2q6": {
     "id": "a2q6",
-    "name": "Intruders in Black",
+    "name": "黒ずくめの侵入者",
     "act": "2",
     "reward_offers": {
       "a2q6": {
-        "quest_npc": "Greust",
+        "quest_npc": "グルースト",
         "quest": {
           "Metadata/Items/Gems/SkillGemHeraldOfAsh": {
             "classes": [
@@ -3063,11 +3063,11 @@
   },
   "a2q10": {
     "id": "a2q10",
-    "name": "The Great White Beast",
+    "name": "偉大なる白の獣",
     "act": "2",
     "reward_offers": {
       "a2q10": {
-        "quest_npc": "Yeena",
+        "quest_npc": "イーナ",
         "quest": {
           "Metadata/Items/Flasks/FlaskLife4": {
             "classes": []
@@ -3100,11 +3100,11 @@
   },
   "a2q4": {
     "id": "a2q4",
-    "name": "Sharp and Cruel",
+    "name": "鋭利なものと残酷なもの",
     "act": "2",
     "reward_offers": {
       "a2q4": {
-        "quest_npc": "Silk",
+        "quest_npc": "シルク",
         "quest": {
           "Metadata/Items/Gems/SupportGemFasterCast": {
             "classes": [
@@ -3568,11 +3568,11 @@
   },
   "a2q9": {
     "id": "a2q9",
-    "name": "The Root of the Problem",
+    "name": "問題の根元",
     "act": "2",
     "reward_offers": {
       "a2q9b_tencent": {
-        "quest_npc": "Tutorial NPC",
+        "quest_npc": "チュートリアルNPC",
         "quest": {
           "Metadata/Items/Gems/SkillGemAbsolution": {
             "classes": [
@@ -3649,11 +3649,11 @@
   },
   "a2q7": {
     "id": "a2q7",
-    "name": "Deal with the Bandits",
+    "name": "山賊との取引",
     "act": "2",
     "reward_offers": {
       "a2q7": {
-        "quest_npc": "Eramir",
+        "quest_npc": "エラミール",
         "quest": {
           "Metadata/Items/QuestItems/BanditAmulets/CombinedAmulet": {
             "classes": []
@@ -3665,41 +3665,41 @@
   },
   "a2q1": {
     "id": "a2q1",
-    "name": "The Bandit Lord Kraityn",
+    "name": "山賊の長クレイティン",
     "act": "2",
     "reward_offers": {}
   },
   "a2q2": {
     "id": "a2q2",
-    "name": "The Bandit Lord Alira",
+    "name": "山賊の長アリーラ",
     "act": "2",
     "reward_offers": {}
   },
   "a2q3": {
     "id": "a2q3",
-    "name": "The Bandit Lord Oak",
+    "name": "山賊の長オーク",
     "act": "2",
     "reward_offers": {}
   },
   "a2q8": {
     "id": "a2q8",
-    "name": "Shadow of the Vaal",
+    "name": "ヴァールの影",
     "act": "2",
     "reward_offers": {}
   },
   "a2q8a3": {
     "id": "a2q8a3",
-    "name": "Shadow of the Vaal",
+    "name": "ヴァールの影",
     "act": "3",
     "reward_offers": {}
   },
   "a3q1": {
     "id": "a3q1",
-    "name": "Lost in Love",
+    "name": "愛に迷って",
     "act": "3",
     "reward_offers": {
       "a3q1": {
-        "quest_npc": "Maramoa",
+        "quest_npc": "マラモア",
         "quest": {
           "Metadata/Items/Gems/SkillGemFlammability": {
             "classes": [
@@ -4216,11 +4216,11 @@
   },
   "a3q2": {
     "id": "a3q2",
-    "name": "Lost in Love",
+    "name": "愛に迷って",
     "act": "3",
     "reward_offers": {
       "a3q2": {
-        "quest_npc": "Clarissa",
+        "quest_npc": "クラリッサ",
         "quest": {
           "Metadata/Items/QuestItems/SewerKeys": {
             "classes": []
@@ -4232,11 +4232,11 @@
   },
   "a3q11": {
     "id": "a3q11",
-    "name": "Victario's Secrets",
+    "name": "ヴィクタリオの秘密",
     "act": "3",
     "reward_offers": {
       "a3q11": {
-        "quest_npc": "Hargan",
+        "quest_npc": "ハーガン",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/Book-a3q11v2": {
             "classes": []
@@ -4248,17 +4248,17 @@
   },
   "a3q3": {
     "id": "a3q3",
-    "name": "The Gemling Queen",
+    "name": "ジェムリングの女王",
     "act": "3",
     "reward_offers": {}
   },
   "a3q4": {
     "id": "a3q4",
-    "name": "The Ribbon Spool",
+    "name": "リボンスプール",
     "act": "3",
     "reward_offers": {
       "a3q4": {
-        "quest_npc": "Lady Dialla",
+        "quest_npc": "レディーディアーラ",
         "quest": {
           "Metadata/Items/Amulets/Amulet3": {
             "classes": []
@@ -4279,11 +4279,11 @@
   },
   "a3q5": {
     "id": "a3q5",
-    "name": "Fiery Dust",
+    "name": "灼けつく粉末",
     "act": "3",
     "reward_offers": {
       "a3q5": {
-        "quest_npc": "Lady Dialla",
+        "quest_npc": "レディーディアーラ",
         "quest": {
           "Metadata/Items/QuestItems/InfernalTalc": {
             "classes": []
@@ -4295,11 +4295,11 @@
   },
   "a3q8": {
     "id": "a3q8",
-    "name": "Sever the Right Hand",
+    "name": "腹心の部下を倒せ",
     "act": "3",
     "reward_offers": {
       "a3q8": {
-        "quest_npc": "Maramoa",
+        "quest_npc": "マラモア",
         "quest": {
           "Metadata/Items/Gems/SkillGemGlacialCascade": {
             "classes": [
@@ -5016,11 +5016,11 @@
   },
   "a3q12": {
     "id": "a3q12",
-    "name": "A Fixture of Fate",
+    "name": "運命の定め",
     "act": "3",
     "reward_offers": {
       "a3q12": {
-        "quest_npc": "Siosa",
+        "quest_npc": "シオサ",
         "quest": {
           "Metadata/Items/Gems/SupportGemFirePenetration": {
             "classes": [
@@ -6764,11 +6764,11 @@
   },
   "a3q13": {
     "id": "a3q13",
-    "name": "A Swig of Hope",
+    "name": "希望の一気飲み",
     "act": "3",
     "reward_offers": {
       "a3q13": {
-        "quest_npc": "Captain Fairgraves",
+        "quest_npc": "フェアグレーヴズ船長",
         "quest": {
           "Metadata/Items/Rings/Ring2": {
             "classes": []
@@ -6789,11 +6789,11 @@
   },
   "a3q9": {
     "id": "a3q9",
-    "name": "Piety's Pets",
+    "name": "パイエティのペット",
     "act": "3",
     "reward_offers": {
       "a3q9": {
-        "quest_npc": "Grigor",
+        "quest_npc": "グリゴー",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/Book-a3q9": {
             "classes": []
@@ -6805,7 +6805,7 @@
   },
   "a3q10": {
     "id": "a3q10",
-    "name": "The Sceptre of God",
+    "name": "神の杖",
     "act": "3",
     "reward_offers": {}
   },
@@ -6843,11 +6843,11 @@
   },
   "a4q1": {
     "id": "a4q1",
-    "name": "The Eternal Nightmare",
+    "name": "永遠の悪夢",
     "act": "4",
     "reward_offers": {
       "a4q1": {
-        "quest_npc": "Dialla",
+        "quest_npc": "ディアーラ",
         "quest": {
           "Metadata/Items/Gems/SupportGemMulticast": {
             "classes": [
@@ -7307,11 +7307,11 @@
   },
   "a4q2": {
     "id": "a4q2",
-    "name": "Breaking the Seal",
+    "name": "封印の解除",
     "act": "4",
     "reward_offers": {
       "a4q2": {
-        "quest_npc": "Oyun",
+        "quest_npc": "オユン",
         "quest": {
           "Metadata/Items/Gems/SkillGemSummonChaosGolem": {
             "classes": [
@@ -7644,29 +7644,29 @@
   },
   "a4q3": {
     "id": "a4q3",
-    "name": "The King of Fury",
+    "name": "憤怒の王",
     "act": "4",
     "reward_offers": {}
   },
   "a4q4": {
     "id": "a4q4",
-    "name": "The King of Desire",
+    "name": "欲望の王",
     "act": "4",
     "reward_offers": {}
   },
   "a4q5": {
     "id": "a4q5",
-    "name": "Corpus Malachus",
+    "name": "マラカイの肉体",
     "act": "4",
     "reward_offers": {}
   },
   "a4q6": {
     "id": "a4q6",
-    "name": "An Indomitable Spirit",
+    "name": "不屈の魂",
     "act": "4",
     "reward_offers": {
       "a4q6": {
-        "quest_npc": "Tasuni",
+        "quest_npc": "タスニ",
         "quest": {
           "Metadata/Items/QuestItems/Act4/Book-a4q6": {
             "classes": []
@@ -7682,7 +7682,7 @@
     "act": "0",
     "reward_offers": {
       "bandit_respec": {
-        "quest_npc": "Eramir",
+        "quest_npc": "エラミール",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/BanditRespecKraityn": {
             "classes": []
@@ -7703,17 +7703,17 @@
   },
   "a5q1a": {
     "id": "a5q1a",
-    "name": "Return to Oriath",
+    "name": "オリアスへの帰還",
     "act": "4",
     "reward_offers": {}
   },
   "a5q1b": {
     "id": "a5q1b",
-    "name": "Return to Oriath",
+    "name": "オリアスへの帰還",
     "act": "5",
     "reward_offers": {
       "a5q1b": {
-        "quest_npc": "Lani",
+        "quest_npc": "ラニ",
         "quest": {
           "Metadata/Items/Rings/Ring5": {
             "classes": []
@@ -7740,11 +7740,11 @@
   },
   "a5q2": {
     "id": "a5q2",
-    "name": "The Key to Freedom",
+    "name": "自由への鍵",
     "act": "5",
     "reward_offers": {
       "a5q2": {
-        "quest_npc": "Lani",
+        "quest_npc": "ラニ",
         "quest": {
           "Metadata/Items/Flasks/FlaskUtility2": {
             "classes": []
@@ -7774,11 +7774,11 @@
   },
   "a5q3": {
     "id": "a5q3",
-    "name": "In Service to Science",
+    "name": "科学の発展のために",
     "act": "5",
     "reward_offers": {
       "a5q3": {
-        "quest_npc": "Vilenta",
+        "quest_npc": "ヴァイレンタ",
         "quest": {
           "Metadata/Items/QuestItems/Act5/Book-a5q3": {
             "classes": []
@@ -7790,11 +7790,11 @@
   },
   "a5q4": {
     "id": "a5q4",
-    "name": "Death to Purity",
+    "name": "浄化に死を",
     "act": "5",
     "reward_offers": {
       "a5q4": {
-        "quest_npc": "Lani",
+        "quest_npc": "ラニ",
         "quest": {
           "Metadata/Items/Jewels/JewelStr": {
             "classes": []
@@ -7815,11 +7815,11 @@
   },
   "a5q5": {
     "id": "a5q5",
-    "name": "The King's Feast",
+    "name": "王の饗宴",
     "act": "5",
     "reward_offers": {
       "a5q5": {
-        "quest_npc": "Bannon",
+        "quest_npc": "バノン",
         "quest": {
           "Metadata/Items/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe10": {
             "classes": [
@@ -7992,17 +7992,17 @@
   },
   "a5q6": {
     "id": "a5q6",
-    "name": "The Ravenous God",
+    "name": "貪欲な神",
     "act": "5",
     "reward_offers": {}
   },
   "a5q7": {
     "id": "a5q7",
-    "name": "Kitava's Torments",
+    "name": "キタヴァの苦悩",
     "act": "5",
     "reward_offers": {
       "a5q7": {
-        "quest_npc": "Lani",
+        "quest_npc": "ラニ",
         "quest": {
           "Metadata/Items/QuestItems/Act5/Book-a5q7": {
             "classes": []
@@ -8014,17 +8014,17 @@
   },
   "a6q1": {
     "id": "a6q1",
-    "name": "The Brine King",
+    "name": "海水の王",
     "act": "6",
     "reward_offers": {}
   },
   "a6q2": {
     "id": "a6q2",
-    "name": "Essence of Umbra",
+    "name": "アンブラのエッセンス",
     "act": "6",
     "reward_offers": {
       "a6q2": {
-        "quest_npc": "Tarkleigh",
+        "quest_npc": "タークリー",
         "quest": {
           "Metadata/Items/Armours/Helmets/HelmetStr7": {
             "classes": [
@@ -8102,11 +8102,11 @@
   },
   "a6q3": {
     "id": "a6q3",
-    "name": "The Father of War",
+    "name": "戦争の父",
     "act": "6",
     "reward_offers": {
       "a6q3": {
-        "quest_npc": "Tarkleigh",
+        "quest_npc": "タークリー",
         "quest": {
           "Metadata/Items/QuestItems/Act6/Book-a6q3": {
             "classes": []
@@ -8118,11 +8118,11 @@
   },
   "a6q4": {
     "id": "a6q4",
-    "name": "Fallen from Grace",
+    "name": "恩寵から見放されて",
     "act": "6",
     "reward_offers": {
       "a6q4": {
-        "quest_npc": "Lilly Roth",
+        "quest_npc": "リリィ・ロス",
         "quest": {
           "Metadata/Items/QuestItems/Act6/Book-a6q4": {
             "classes": []
@@ -9803,11 +9803,11 @@
   },
   "a6q5": {
     "id": "a6q5",
-    "name": "Bestel's Epic",
+    "name": "ベストルの叙事詩",
     "act": "6",
     "reward_offers": {
       "a6q5": {
-        "quest_npc": "Bestel",
+        "quest_npc": "ベストル",
         "quest": {
           "Metadata/Items/Belts/Belt1": {
             "classes": []
@@ -9843,11 +9843,11 @@
   },
   "a6q6": {
     "id": "a6q6",
-    "name": "The Puppet Mistress",
+    "name": "傀儡の女主人",
     "act": "6",
     "reward_offers": {
       "a6q6": {
-        "quest_npc": "Tarkleigh",
+        "quest_npc": "タークリー",
         "quest": {
           "Metadata/Items/QuestItems/Act6/Book-a6q6": {
             "classes": []
@@ -9859,11 +9859,11 @@
   },
   "a6q7": {
     "id": "a6q7",
-    "name": "The Cloven One",
+    "name": "裂けし者",
     "act": "6",
     "reward_offers": {
       "a6q7": {
-        "quest_npc": "Bestel",
+        "quest_npc": "ベストル",
         "quest": {
           "Metadata/Items/QuestItems/Act6/Book-a6q7": {
             "classes": []
@@ -9875,11 +9875,11 @@
   },
   "a7q1": {
     "id": "a7q1",
-    "name": "The Master of a Million Faces",
+    "name": "無数の顔の支配者",
     "act": "7",
     "reward_offers": {
       "a7q1": {
-        "quest_npc": "Eramir",
+        "quest_npc": "エラミール",
         "quest": {
           "Metadata/Items/QuestItems/Act7/Book-a7q1": {
             "classes": []
@@ -9891,11 +9891,11 @@
   },
   "a7q2": {
     "id": "a7q2",
-    "name": "Essence of the Artist",
+    "name": "芸術家のエッセンス",
     "act": "7",
     "reward_offers": {
       "a7q2": {
-        "quest_npc": "Helena",
+        "quest_npc": "ヘレナ",
         "quest": {
           "Metadata/Items/Armours/Boots/BootsStr7": {
             "classes": [
@@ -9973,11 +9973,11 @@
   },
   "a7q3": {
     "id": "a7q3",
-    "name": "Web of Secrets",
+    "name": "秘密の蜘蛛の巣",
     "act": "7",
     "reward_offers": {
       "a7q3": {
-        "quest_npc": "Silk",
+        "quest_npc": "シルク",
         "quest": {
           "Metadata/Items/QuestItems/Act7/ObsidianKey": {
             "classes": []
@@ -9989,17 +9989,17 @@
   },
   "a7q4": {
     "id": "a7q4",
-    "name": "The Mother of Spiders",
+    "name": "蜘蛛の母",
     "act": "7",
     "reward_offers": {}
   },
   "a7q5": {
     "id": "a7q5",
-    "name": "The Silver Locket",
+    "name": "銀のロケット",
     "act": "7",
     "reward_offers": {
       "a7q5": {
-        "quest_npc": "Weylam Roth",
+        "quest_npc": "ウェイラム・ロス",
         "quest": {
           "Metadata/Items/Flasks/FlaskUtility1": {
             "classes": []
@@ -10029,11 +10029,11 @@
   },
   "a7q6": {
     "id": "a7q6",
-    "name": "Kishara's Star",
+    "name": "キシャラの星",
     "act": "7",
     "reward_offers": {
       "a7q6": {
-        "quest_npc": "Weylam Roth",
+        "quest_npc": "ウェイラム・ロス",
         "quest": {
           "Metadata/Items/QuestItems/Act7/Book-a7q6": {
             "classes": []
@@ -10045,17 +10045,17 @@
   },
   "a7q7": {
     "id": "a7q7",
-    "name": "Lighting the Way",
+    "name": "道を照らす",
     "act": "7",
     "reward_offers": {}
   },
   "a7q8": {
     "id": "a7q8",
-    "name": "In Memory of Greust",
+    "name": "グルーストの追悼",
     "act": "7",
     "reward_offers": {
       "a7q8": {
-        "quest_npc": "Helena",
+        "quest_npc": "ヘレナ",
         "quest": {
           "Metadata/Items/Amulets/Amulet6": {
             "classes": []
@@ -10076,7 +10076,7 @@
         "vendor": {}
       },
       "a7q8_offer": {
-        "quest_npc": "Helena",
+        "quest_npc": "ヘレナ",
         "quest": {
           "Metadata/Items/QuestItems/Act7/GreustNecklace": {
             "classes": []
@@ -10088,11 +10088,11 @@
   },
   "a7q9": {
     "id": "a7q9",
-    "name": "Queen of Despair",
+    "name": "絶望の女王",
     "act": "7",
     "reward_offers": {
       "a7q9": {
-        "quest_npc": "Eramir",
+        "quest_npc": "エラミール",
         "quest": {
           "Metadata/Items/QuestItems/Act7/Book-a7q9": {
             "classes": []
@@ -10104,11 +10104,11 @@
   },
   "a8q1": {
     "id": "a8q1",
-    "name": "Essence of the Hag",
+    "name": "魔女のエッセンス",
     "act": "8",
     "reward_offers": {
       "a8q1": {
-        "quest_npc": "Hargan",
+        "quest_npc": "ハーガン",
         "quest": {
           "Metadata/Items/Rings/Ring12": {
             "classes": []
@@ -10174,23 +10174,23 @@
   },
   "a8q2": {
     "id": "a8q2",
-    "name": "Lunar Eclipse",
+    "name": "皆既月食",
     "act": "8",
     "reward_offers": {}
   },
   "a8q3": {
     "id": "a8q3",
-    "name": "Solar Eclipse",
+    "name": "皆既日食",
     "act": "8",
     "reward_offers": {}
   },
   "a8q4": {
     "id": "a8q4",
-    "name": "Reflection of Terror",
+    "name": "恐怖の影",
     "act": "8",
     "reward_offers": {
       "a8q4": {
-        "quest_npc": "Hargan",
+        "quest_npc": "ハーガン",
         "quest": {
           "Metadata/Items/QuestItems/Act8/Book-a8q4": {
             "classes": []
@@ -10202,11 +10202,11 @@
   },
   "a8q5": {
     "id": "a8q5",
-    "name": "The Wings of Vastiri",
+    "name": "ヴァスティリの翼",
     "act": "8",
     "reward_offers": {
       "a8q5": {
-        "quest_npc": "Hargan",
+        "quest_npc": "ハーガン",
         "quest": {
           "Metadata/Items/Jewels/JewelStr": {
             "classes": []
@@ -10233,11 +10233,11 @@
   },
   "a8q6": {
     "id": "a8q6",
-    "name": "Love is Dead",
+    "name": "愛は死す",
     "act": "8",
     "reward_offers": {
       "a8q6": {
-        "quest_npc": "Clarissa",
+        "quest_npc": "クラリッサ",
         "quest": {
           "Metadata/Items/QuestItems/Act8/Book-a8q6": {
             "classes": []
@@ -10249,11 +10249,11 @@
   },
   "a8q7": {
     "id": "a8q7",
-    "name": "The Gemling Legion",
+    "name": "ジェムリングの軍団",
     "act": "8",
     "reward_offers": {
       "a8q7": {
-        "quest_npc": "Maramoa",
+        "quest_npc": "マラモア",
         "quest": {
           "Metadata/Items/QuestItems/Act8/Book-a8q7": {
             "classes": []
@@ -10265,17 +10265,17 @@
   },
   "a9q1": {
     "id": "a9q1",
-    "name": "Recurring Nightmare",
+    "name": "繰り返す悪夢",
     "act": "9",
     "reward_offers": {}
   },
   "a9q2": {
     "id": "a9q2",
-    "name": "The Ruler of Highgate",
+    "name": "ハイゲートの統治者",
     "act": "9",
     "reward_offers": {
       "a9q2": {
-        "quest_npc": "Irasha",
+        "quest_npc": "イラーシャ",
         "quest": {
           "Metadata/Items/QuestItems/Act9/Book-a9q2": {
             "classes": []
@@ -10287,11 +10287,11 @@
   },
   "a9q3": {
     "id": "a9q3",
-    "name": "The Storm Blade",
+    "name": "ストームブレード",
     "act": "9",
     "reward_offers": {
       "a9q3": {
-        "quest_npc": "Petarus and Vanja",
+        "quest_npc": "ペタルスとヴァーニャ",
         "quest": {
           "Metadata/Items/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe18": {
             "classes": [
@@ -10467,11 +10467,11 @@
   },
   "a9q4": {
     "id": "a9q4",
-    "name": "Fastis Fortuna",
+    "name": "運命のカレンダー",
     "act": "9",
     "reward_offers": {
       "a9q4": {
-        "quest_npc": "Petarus and Vanja",
+        "quest_npc": "ペタルスとヴァーニャ",
         "quest": {
           "Metadata/Items/QuestItems/Act9/Book-a9q4": {
             "classes": []
@@ -10483,11 +10483,11 @@
   },
   "a9q5": {
     "id": "a9q5",
-    "name": "Queen of the Sands",
+    "name": "砂漠の女王",
     "act": "9",
     "reward_offers": {
       "a9q5": {
-        "quest_npc": "Irasha",
+        "quest_npc": "イラーシャ",
         "quest": {
           "Metadata/Items/QuestItems/Act9/Book-a9q5": {
             "classes": []
@@ -10496,7 +10496,7 @@
         "vendor": {}
       },
       "a9q5_offer": {
-        "quest_npc": "Petarus and Vanja",
+        "quest_npc": "ペタルスとヴァーニャ",
         "quest": {
           "Metadata/Items/QuestItems/Act9/BottledStorm": {
             "classes": []
@@ -10508,11 +10508,11 @@
   },
   "a10q1": {
     "id": "a10q1",
-    "name": "Safe Passage",
+    "name": "安全な通り道",
     "act": "10",
     "reward_offers": {
       "a10q1": {
-        "quest_npc": "Lani",
+        "quest_npc": "ラニ",
         "quest": {
           "Metadata/Items/Flasks/FlaskLife11": {
             "classes": []
@@ -10548,11 +10548,11 @@
   },
   "a10q2": {
     "id": "a10q2",
-    "name": "Death and Rebirth",
+    "name": "死と再生",
     "act": "10",
     "reward_offers": {
       "a10q2": {
-        "quest_npc": "Lani",
+        "quest_npc": "ラニ",
         "quest": {
           "Metadata/Items/Armours/BodyArmours/BodyStr16": {
             "classes": [
@@ -10612,11 +10612,11 @@
   },
   "a10q3": {
     "id": "a10q3",
-    "name": "An End to Hunger",
+    "name": "飢えの終焉",
     "act": "10",
     "reward_offers": {
       "a10q3": {
-        "quest_npc": "Lani",
+        "quest_npc": "ラニ",
         "quest": {
           "Metadata/Items/QuestItems/Act10/Book-a10q3": {
             "classes": []
@@ -10628,11 +10628,11 @@
   },
   "a10q4": {
     "id": "a10q4",
-    "name": "No Love for Old Ghosts",
+    "name": "年老いた亡霊は愛されない",
     "act": "10",
     "reward_offers": {
       "a10q4": {
-        "quest_npc": "Weylam Roth",
+        "quest_npc": "ウェイラム・ロス",
         "quest": {
           "Metadata/Items/QuestItems/Act10/Book-a10q4": {
             "classes": []
@@ -10644,11 +10644,11 @@
   },
   "a10q5": {
     "id": "a10q5",
-    "name": "Map to Tsoatha",
+    "name": "ヴァイレンタの復讐",
     "act": "10",
     "reward_offers": {
       "a10q5": {
-        "quest_npc": "Lilly Roth",
+        "quest_npc": "リリィ・ロス",
         "quest": {
           "Metadata/Items/Belts/Belt1": {
             "classes": []
@@ -10675,11 +10675,11 @@
   },
   "a10q6": {
     "id": "a10q6",
-    "name": "Vilenta's Vengeance",
+    "name": "飢えの終焉",
     "act": "10",
     "reward_offers": {
       "a10q6": {
-        "quest_npc": "Lani",
+        "quest_npc": "ラニ",
         "quest": {
           "Metadata/Items/QuestItems/Act10/Book-a10q6": {
             "classes": []
@@ -10691,19 +10691,19 @@
   },
   "a10q3a11": {
     "id": "a10q3a11",
-    "name": "An End to Hunger",
+    "name": "飢えの終焉",
     "act": "11",
     "reward_offers": {}
   },
   "A11q0": {
     "id": "A11q0",
-    "name": "Toward the Future",
+    "name": "未来へ向かって",
     "act": "10",
     "reward_offers": {}
   },
   "a11q1": {
     "id": "a11q1",
-    "name": "A Call to Arms",
+    "name": "召集令",
     "act": "12",
     "reward_offers": {}
   },
@@ -10719,7 +10719,7 @@
     "act": "12",
     "reward_offers": {
       "maven": {
-        "quest_npc": "Commander Kirac",
+        "quest_npc": "司令官キラック",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/AtlasSkillBookMaven": {
             "classes": []
@@ -10735,7 +10735,7 @@
     "act": "12",
     "reward_offers": {
       "uberelder": {
-        "quest_npc": "Commander Kirac",
+        "quest_npc": "司令官キラック",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/AtlasSkillBookElder": {
             "classes": []
@@ -10751,7 +10751,7 @@
     "act": "12",
     "reward_offers": {
       "tangle": {
-        "quest_npc": "Commander Kirac",
+        "quest_npc": "司令官キラック",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/AtlasSkillBookTangle": {
             "classes": []
@@ -10760,7 +10760,7 @@
         "vendor": {}
       },
       "tangle_infinite_hunger": {
-        "quest_npc": "Commander Kirac",
+        "quest_npc": "司令官キラック",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/AtlasSkillBookInfiniteHunger": {
             "classes": []
@@ -10776,7 +10776,7 @@
     "act": "12",
     "reward_offers": {
       "cleansing_fire": {
-        "quest_npc": "Commander Kirac",
+        "quest_npc": "司令官キラック",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/AtlasSkillBookCleansingFire": {
             "classes": []
@@ -10785,7 +10785,7 @@
         "vendor": {}
       },
       "cleansing_fire_black_star": {
-        "quest_npc": "Commander Kirac",
+        "quest_npc": "司令官キラック",
         "quest": {
           "Metadata/Items/QuestItems/SkillBooks/AtlasSkillBookBlackStar": {
             "classes": []
@@ -10801,7 +10801,7 @@
     "act": "12",
     "reward_offers": {
       "atlas": {
-        "quest_npc": "Commander Kirac",
+        "quest_npc": "司令官キラック",
         "quest": {
           "Metadata/Items/Maps/MapWorldsSiege": {
             "classes": []
