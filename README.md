@@ -1,3 +1,5 @@
+https://ochi3.github.io/exile-leveling-jp/
+
 ## Getting Started
 
 - `npm i`
