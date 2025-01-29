@@ -14,6 +14,7 @@
     Take {portal|use}
     ➞ {enter|1_2_2a} #The Den
     {kill|偉大なる白の獣}を見つけて倒す
+        #sub 左の壁に沿って進む
     {logout}
     イーナ {quest|a2q10} #The Great White Beast
     {waypoint|1_2_3} #The Crossroads
@@ -26,7 +27,7 @@
 ➞ {enter|1_2_6_2} #The Chamber of Sins Level 2
     #sub {waypoint}と同じ方向に進んでください
 #ifdef LEAGUE_START
-    Complete {trial}
+    Go {dir|270}? Complete {trial}
 #endif
 Kill {kill|悼みし者、フィデライタス}, take {quest_text|悪意の宝石}
     #sub 長い廊下を探してください
@@ -42,7 +43,7 @@ Kill {kill|悼みし者、フィデライタス}, take {quest_text|悪意の宝�
     Complete {trial}
 #endif
 ➞ {enter|1_2_5_2} #The Crypt Level 2
-Find {quest_text|Altar}, take {quest_text|黄金の手}
+Find {quest_text|祭壇}, take {quest_text|黄金の手}
 {logout}
 イーナ {quest|a2q5} #Through Sacred Ground
 ➞ {enter|1_2_7} #The Riverways
@@ -55,7 +56,7 @@ Get {waypoint_get}
     #sub 道に沿って進んでください
 ➞ {enter|1_2_10} #The Weaver's Chambers
     #sub {waypoint}の反対側の道路脇を探してください
-➞ {arena|The Weaver's Nest}, kill {kill|編む者}, take {quest_text|マリガロの棘}
+➞ {arena|蜘蛛の巣}, kill {kill|編む者}, take {quest_text|マリガロの棘}
     #sub {dir|270}に進んでみて、通れない場合は{dir|45}に進んでください
     #sub 推奨レベル: 16
 {logout}
@@ -78,7 +79,7 @@ Get {waypoint_get}
         #sub 松明の方向に沿って道をたどって進んでください
     Kill {kill|アルテリ隊長}
         #sub 道に沿って進んでください {dir|225}
-    Take {quest_text|Thaumetic Emblem}, activate {quest_text|Thaumetic Seal}
+    Take {quest_text|魔術の徽章}, activate {quest_text|魔術の封印}
     {logout}
     エラミール {quest|a2q7}, take {quest_text|エイペックス} #Deal with the Bandits
     {waypoint|1_1_town} #Lioneye's Watch
@@ -104,7 +105,7 @@ Get {waypoint_get}
         #sub 松明の方向に沿って道をたどって進んでください
     Kill {kill|アルテリ隊長}
         #sub 道に沿って進んでください {dir|225}
-    Take {quest_text|Thaumetic Emblem}, activate {quest_text|Thaumetic Seal}
+    Take {quest_text|魔術の徽章}, activate {quest_text|魔術の封印}
     {logout}
     {waypoint|1_1_town} #Lioneye's Watch
     ベストル {quest|a1q9} #The Way Forward
@@ -123,7 +124,7 @@ Get {waypoint_get}
         #sub 松明の方向に沿って道をたどって進んでください
     Kill {kill|アルテリ隊長}
         #sub 道に沿って進んでください {dir|225}
-    Take {quest_text|Thaumetic Emblem}, activate {quest_text|Thaumetic Seal}
+    Take {quest_text|魔術の徽章}, activate {quest_text|魔術の封印}
     {logout}
     {waypoint|1_1_town} #Lioneye's Watch
     ベストル {quest|a1q9} #The Way Forward
@@ -149,7 +150,7 @@ Get {waypoint_get}
         #sub 松明の方向に沿って道をたどって進んでください
     Kill {kill|アルテリ隊長}
         #sub 道に沿って進んでください {dir|225}
-    Take {quest_text|Thaumetic Emblem}, activate {quest_text|Thaumetic Seal}
+    Take {quest_text|魔術の徽章}, activate {quest_text|魔術の封印}
     {logout}
     {waypoint|1_1_town} #Lioneye's Watch
     ベストル {quest|a1q9} #The Way Forward
@@ -165,7 +166,7 @@ Get {waypoint_get}
 ➞ {enter|1_2_14_2} #The Caverns
 Get {crafting}
 ➞ {enter|1_2_14_3} #The Ancient Pyramid
-➞ {arena|Pyramid Apex}, kill {kill|ヴァールオーバーソウル}
+➞ {arena|ピラミッドの頂上}, kill {kill|ヴァールオーバーソウル}
     #sub 1階の出口は3つの角のいずれかにあります
     #sub 残りの階の出口は入口から斜め向かいに位置します
     #sub 推奨レベル: 20～22

@@ -48,13 +48,8 @@ Find and kill {kill|海の住人}
 #endif
 ➞ {enter|1_1_7_2} #The Upper Prison
 #ifdef LEAGUE_START
-    Find {generic|Chemist's Strongbox}
-        #sub 地図アイコンを探し、近くのスイッチでアクセスしてください
-        #sub {generic|クイックシルバーフラスコ}が高確率で入手可能
-        #sub ベンダーに{generic|クイックシルバーフラスコ} + {generic|増幅のオーブ} + 通常の{generic|ブーツ}を渡してください
-        #sub ベンダーに{generic|クイックシルバーフラスコ} + {generic|増幅のオーブ} + 移動速度付きの{generic|ブーツ}を渡してください
 #endif
-➞ {arena|The Warden's Quarters}, kill {kill|投獄卿、ブルータス}
+➞ {arena|監獄長の宿舎}, kill {kill|投獄卿、ブルータス}
     #sub 推奨レベル: 8～10
 {logout}
 タークリー {quest|a1q2|a1q2} #The Caged Brute
@@ -75,6 +70,6 @@ Find {quest_text|Slave Girl}, take {quest_text|オールフレイム}
 {waypoint|1_1_11_1} #The Cavern of Wrath
 ➞ {enter|1_1_11_2} #The Cavern of Anger
     #sub 水に沿って進んでください
-➞ {arena|Merveil's Lair}, kill {kill|セイレーン、マーヴェイル}
+➞ {arena|マーヴェイルの隠れ家}, kill {kill|セイレーン、マーヴェイル}
     #sub 水に沿って進んでください
     #sub 推奨レベル: 11-13

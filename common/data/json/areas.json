@@ -180,7 +180,7 @@
   "1_1_7_1": {
     "id": "1_1_7_1",
     "name": "牢獄 -下層-",
-    "map_name": "The Prison",
+    "map_name": "牢獄",
     "act": 1,
     "has_waypoint": true,
     "is_town_area": false,
@@ -268,7 +268,7 @@
   "1_1_11_1": {
     "id": "1_1_11_1",
     "name": "憤怒の洞窟",
-    "map_name": "Merveil's Caverns",
+    "map_name": "マーヴェイルの洞窟",
     "act": 1,
     "has_waypoint": true,
     "is_town_area": false,
@@ -469,7 +469,7 @@
   "1_2_6_1": {
     "id": "1_2_6_1",
     "name": "罪の間 -第一層-",
-    "map_name": "The Chamber of Sins",
+    "map_name": "罪の間",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
@@ -787,7 +787,7 @@
   "1_3_14_1": {
     "id": "1_3_14_1",
     "name": "ルナリス寺院 -第一層-",
-    "map_name": "The Lunaris Temple",
+    "map_name": "ルナリス寺院",
     "act": 3,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1172,7 +1172,7 @@
   "2_8_7_1_": {
     "id": "2_8_7_1_",
     "name": "ルナリス寺院 -第一層-",
-    "map_name": "The Lunaris Temple",
+    "map_name": "ルナリス寺院",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1218,7 +1218,7 @@
   "2_8_12_1": {
     "id": "2_8_12_1",
     "name": "ソラリス寺院 -第一層-",
-    "map_name": "The Solaris Temple",
+    "map_name": "ソラリス寺院",
     "act": 8,
     "has_waypoint": true,
     "is_town_area": false,
@@ -1528,7 +1528,7 @@
   "2_7_5_1": {
     "id": "2_7_5_1",
     "name": "罪の間 -第一層-",
-    "map_name": "The Chamber of Sins",
+    "map_name": "罪の間",
     "act": 7,
     "has_waypoint": true,
     "is_town_area": false,
@@ -2353,7 +2353,7 @@
   "2_6_7_1": {
     "id": "2_6_7_1",
     "name": "牢獄 -下層-",
-    "map_name": "The Prison",
+    "map_name": "牢獄",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,

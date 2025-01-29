@@ -24,9 +24,9 @@ Find and take {quest_text|マリガロの地図}
     #sub Go {dir|315}
 Get {crafting}
 Get {waypoint_get}
-Activate {quest_text|Map Device} with {quest_text|マリガロの地図}
+Activate {quest_text|マップデバイス} with {quest_text|マリガロの地図}
 ➞ {enter|2_7_5_map} #Maligaro's Sanctum
-➞ {arena|Maligaro's Workshop}, kill {kill|芸術家、マリガロ}, take {quest_text|ブラックヴェノム}
+➞ {arena|マリガロの工房}, kill {kill|芸術家、マリガロ}, take {quest_text|ブラックヴェノム}
     #sub エリアの端に沿って進み、隅にある橋を渡ってください
     #sub 橋は通常、対角線上の隅に出現します
 {logout}
@@ -44,13 +44,13 @@ Activate {quest_text|Map Device} with {quest_text|マリガロの地図}
 #endif
 {generic|隠し通路}を開いて ➞ {enter|2_7_6} #The Den
 ➞ {enter|2_7_7} #The Ashen Fields
-➞ {arena|The Forest Encampment}, kill {kill|森の王、グルースト}
+➞ {arena|要塞の野営地}, kill {kill|森の王、グルースト}
     #sub Go {dir|225}
 ➞ {enter|2_7_8} #The Northern Forest
 {waypoint|2_7_town} #The Bridge Encampment
 エラミール {quest|a7q1} #The Master of a Million Faces
 {waypoint|2_6_8} #Prisoner's Gate
-➞ {arena|Valley of the Fire Drinker}, kill {kill|裂けし者、アバラス}
+➞ {arena|火を飲む者の谷}, kill {kill|裂けし者、アバラス}
     #sub 道路の隣にある崖を下りてください
 {portal|use}
 ベストル {quest|a6q7} #The Cloven One
@@ -64,7 +64,7 @@ Find {waypoint_get}
 ➞ {enter|2_7_9} #The Dread Thicket
 Find and take 7x{quest_text|ホタル}
 Get {crafting}
-➞ {arena|Den of Despair}, kill {kill|絶望の母、グラスクル}
+➞ {arena|絶望のねぐら}, kill {kill|絶望の母、グラスクル}
 {portal|use}
 エラミール {quest|a7q9} #Queen of Despair
 ウェイラム・ロス {quest|a7q6} #Kishara's Star
@@ -76,4 +76,4 @@ Hand in {quest|a7q7} #Lighting the Way
 ➞ {enter|2_7_12_1} #The Temple of Decay Level 1
 ➞ {enter|2_7_12_2} #The Temple of Decay Level 2
 Get {crafting}
-➞ {arena|Arakaali's Web}, kill {kill|影を紡ぐ者、アラカーリ}
+➞ {arena|アラカーリの巣}, kill {kill|影を紡ぐ者、アラカーリ}

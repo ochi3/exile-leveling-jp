@@ -5,14 +5,14 @@
     #sub Go {dir|270}
 ➞ {enter|2_8_2_2} #Doedre's Cesspool
     #sub 地面にある黒いペンキの飛び散りが進むべき正しい方向を示しています
-➞ {arena|The Cauldron}, kill {kill|不快なる者、ドードゥリ}
-➞ {arena|Sewer Outlet}
+➞ {arena|大釜}, kill {kill|不快なる者、ドードゥリ}
+➞ {arena|下水の出口}
 Get {crafting}
 ➞ {enter|2_8_8} #The Quay
     #sub Go {dir|45}
 Find and take {quest_text|永遠のアンク}
     #sub {dir|270}の壁に沿って進んでください
-➞ {arena|Resurrection Site}
+➞ {arena|復活の池}
     #sub Go {dir|135}
 Talk to {generic|Clarissa}, kill {kill|トールマン}
 ➞ {enter|2_8_9} #The Grain Gate
@@ -46,7 +46,7 @@ Get {crafting}
 {waypoint|2_8_6} #The Lunaris Concourse
 ➞ {enter|2_8_13} #The Harbour Bridge
     #sub Go {dir|135}
-➞ {arena|The Sky Shrine}, activate {generic|姉妹の像}
+➞ {arena|天空神殿}, activate {generic|姉妹の像}
 Kill {kill|永遠なる月、ルナリス} & {kill|永遠なる太陽、ソラリス}
 ➞ {enter|2_9_1} #The Blood Aqueduct
     #sub 推奨レベル: 54以上
@@ -62,6 +62,6 @@ Kill {kill|永遠なる月、ルナリス} & {kill|永遠なる太陽、ソラ�
 #endif
 ➞ {enter|2_8_4} #The High Gardens
     #sub {dir|270}側を探してください
-➞ {arena|The Pools of Terror}, kill {kill|恐怖の影、ユーグル}
+➞ {arena|恐怖の池}, kill {kill|恐怖の影、ユーグル}
 {portal|use}
 ハーガン {quest|a8q4} #Reflection of Terror

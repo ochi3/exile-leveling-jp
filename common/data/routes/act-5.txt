@@ -18,7 +18,7 @@ Find and kill {kill|司法官カスティカス}, take {quest_text|熱情の目}
     #sub 推奨レベル: 37以上
     #sub 推奨ファームレベル: 40～42
 Get {crafting}
-➞ {arena|Sanctum of Innocence}, kill {kill|ハイテンプラー、アヴァリアス}
+➞ {arena|イノセンスの聖域}, kill {kill|ハイテンプラー、アヴァリアス}
     #sub {dir|315}に進み、反時計回りの渦巻きを描いてください
 {logout}
 ラニ {quest|a5q2} #The Key to Freedom
@@ -45,5 +45,5 @@ Get {crafting}
 {waypoint|1_5_3b} #The Ruined Square
 ➞ {enter|1_5_8} #The Cathedral Rooftop
     #sub Go {dir|225}
-➞ {arena|Cathedral Apex}, kill {kill|貪欲なる者、キタヴァ}
+➞ {arena|聖堂の屋上}, kill {kill|貪欲なる者、キタヴァ}
 {generic|リリィ・ロス}に話しかけ、レイクラストへ航海してください

@@ -9,7 +9,7 @@ Kill {kill|Everything}
 Find and kill {kill|名誉を汚された女王}, take {quest_text|征服の目}
     #sub エリアの{dir|45}の隅、通常は家のそばにあります
 ➞ {enter|2_6_5} #The Karui Fortress
-➞ {arena|Tukohama's Keep}, kill {kill|カルイの戦神、トゥコハマ}
+➞ {arena|トコハマの砦}, kill {kill|カルイの戦神、トゥコハマ}
 Get {crafting}
 ➞ {enter|2_6_6} #The Ridge
     #sub Go {dir|0}
@@ -19,8 +19,8 @@ Get {crafting}
 #endif
 Get {crafting}
 ➞ {enter|2_6_7_2} #Shavronne's Tower
-➞ {arena|Prison Rooftop}, kill {kill|蘇ったシャヴロン} & {kill|再構築されたブルータス}
-➞ {arena|The Warden's Chambers}
+➞ {arena|監獄の屋上}, kill {kill|蘇ったシャヴロン} & {kill|再構築されたブルータス}
+➞ {arena|監獄長の拷問部屋}
 Get {crafting}
 ➞ {enter|2_6_8} #Prisoner's Gate
 ➞ {enter|2_6_9} #The Western Forest
@@ -32,7 +32,7 @@ Get {waypoint_get}
     #sub 道に沿って進んでください
 ➞ {enter|2_6_11} #The Wetlands
     #sub {waypoint}付近の2本の柱を探し、その道をたどって進んでください
-➞ {arena|The Spawning Ground}, kill {kill|傀儡の女主人、リスラーサ}
+➞ {arena|産卵場所}, kill {kill|傀儡の女主人、リスラーサ}
     #sub Go {dir|315}
 {logout}
 タークリー {quest|a6q3} #The Father of War
@@ -50,6 +50,6 @@ Get {crafting}
 Complete {quest_text|Pillar Push}
 Light the {quest_text|ビーコン}, throw in {quest_text|ブラックフラッグ}
 Talk to {generic|Weylam Roth}, sail to {enter|2_6_15} #The Brine King's Reef
-➞ {arena|The Bring King's Throne}, kill {kill|海水の王、ツォアゴス}
+➞ {arena|海水の王の玉座}, kill {kill|海水の王、ツォアゴス}
 {logout}
 Select {generic|パンテオン}

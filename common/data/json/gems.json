@@ -1590,7 +1590,7 @@
   },
   "Metadata/Items/Gems/SkillGemHeraldOfThunder": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfThunder",
-    "name": "雷の使者",
+    "name": "ヘラルドオブサンダー",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false

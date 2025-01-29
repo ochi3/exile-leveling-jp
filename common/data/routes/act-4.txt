@@ -29,17 +29,17 @@ Get {crafting}
     #sub Go {dir|45}
     #sub 橋に沿って進んでください
 Get {crafting}
-➞ {arena|Caldera of the King}, kill {kill|カオム王}, take {quest_text|憤激の目}
+➞ {arena|王のカルデラ}, kill {kill|カオム王}, take {quest_text|憤激の目}
 {portal|use}
 {waypoint|1_4_5_2} #The Grand Arena
-➞ {arena|The Ring of Blades}, kill {kill|剣の王、ダレッソ}, take {quest_text|欲望の目}
+➞ {arena|刃のリング}, kill {kill|剣の王、ダレッソ}, take {quest_text|欲望の目}
     #sub {dir|225}に進み、出口をたどりながら{dir|270}を維持してください
 {logout}
 {waypoint|1_4_3_3} #The Crystal Veins
 Talk to {generic|レディーディアーラ}
 ➞ {enter|1_4_6_1} #The Belly of the Beast Level 1
 ➞ {enter|1_4_6_2} #The Belly of the Beast Level 2
-➞ {arena|The Bowels of the Beast}, kill {kill|唾棄すべき姿、パイエティ}
+➞ {arena|魔獣の深部}, kill {kill|唾棄すべき姿、パイエティ}
 Talk to {generic|パイエティ}
 Get {crafting}
 ➞ {enter|1_4_6_3} #The Harvest
@@ -47,10 +47,10 @@ Find and kill {kill|ドードゥリ・ダークタン}, take {quest_text|マラ�
 Find and kill {kill|審問官、マリガロ}, take {quest_text|マラカイの心臓}
 Find and kill {kill|アンブラのシャヴロン}, take {quest_text|マラカイの腸}
 マラカイの肉体 {quest|a4q5} #Corpus Malachus
-➞ {arena|The Black Core}, kill {kill|悪夢、マラカイ}
+➞ {arena|ブラックコア}, kill {kill|悪夢、マラカイ}
     #sub 推奨レベル: 34-35
 {logout}
 ディアーラ {quest|a4q1} #The Eternal Nightmare
 ➞ {enter|1_4_7} #The Ascent
 Get {crafting}
-Activate {quest_text|The Resonator}, use {quest_text|Oriath Portal}
+Activate {quest_text|レバー}, use {quest_text|オリアスへのポータル}
