@@ -12,9 +12,9 @@ import { MdCircle } from "react-icons/md";
 function ItemRewardVerb(type: ItemRewardProps["rewardType"]) {
   switch (type) {
     case "quest":
-      return <span>Take </span>;
+      return <span>報酬 </span>;
     case "vendor":
-      return <span>Buy </span>;
+      return <span>購入 </span>;
     default:
       return <></>;
   }

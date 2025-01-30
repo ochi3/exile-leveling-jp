@@ -101,7 +101,7 @@ export function Navbar({}: NavbarProps) {
             })}
           >
             <NavbarItem
-              label="Route"
+              label="ルート"
               expand={navExpand}
               icon={<FaMap className={classNames("inlineIcon")} />}
               onClick={() => {
@@ -110,7 +110,7 @@ export function Navbar({}: NavbarProps) {
               }}
             />
             <NavbarItem
-              label="Build"
+              label="ビルド"
               expand={navExpand}
               icon={<FaTools className={classNames("inlineIcon")} />}
               onClick={() => {
@@ -118,7 +118,7 @@ export function Navbar({}: NavbarProps) {
                 setNavExpand(false);
               }}
             />
-            <NavAccordion label="Sections" navExpand={navExpand}>
+            <NavAccordion label="ACT一覧" navExpand={navExpand}>
               {routeFiles.map((x, i) => (
                 <NavbarItem
                   key={i}
@@ -132,7 +132,7 @@ export function Navbar({}: NavbarProps) {
               ))}
             </NavAccordion>
             <NavbarItem
-              label={`Edit Route`}
+              label={`ルート編集`}
               expand={navExpand}
               icon={<FaTools className={classNames("inlineIcon")} />}
               onClick={() => {
@@ -141,7 +141,7 @@ export function Navbar({}: NavbarProps) {
               }}
             />
             <NavbarItem
-              label="Reset Progress"
+              label="進行リセット"
               expand={navExpand}
               icon={<FaUndoAlt className={classNames("inlineIcon")} />}
               onClick={() => {
@@ -169,6 +169,20 @@ export function Navbar({}: NavbarProps) {
                 window
                   .open(
                     "https://github.com/ochi3/exile-leveling-jp",
+                    "_blank"
+                  )
+                  ?.focus();
+                setNavExpand(false);
+              }}
+            />
+            <NavbarItem
+              label="Lailloken日本語化"
+              expand={navExpand}
+              icon={<FaGithub className={classNames("inlineIcon")} />}
+              onClick={() => {
+                window
+                  .open(
+                    "https://github.com/ochi3/Lailloken-UI-Japanese",
                     "_blank"
                   )
                   ?.focus();

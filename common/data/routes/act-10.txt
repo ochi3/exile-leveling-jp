@@ -48,12 +48,13 @@ Talk to {generic|シン} ➞ {enter|2_10_town} #Oriath Docks
 Talk to {generic|リリィ・ロス}と話し、オリアスから出航してください
 ➞ {enter|2_11_endgame_town} #Karui Shores
 Get {crafting}
-Relog
 #ifdef BANDIT_KILL
     ラニ {quest|a10q3} #An End to Hunger
         #sub チャットに{generic|/passives}と入力して、クエストからすべての24パッシブを取得していることを確認してください
+    Relog
 #endif
 #ifndef BANDIT_KILL
     ラニ {quest|a10q3} #An End to Hunger
         #sub チャットに{generic|/passives}と入力して、クエストからすべての22パッシブを取得していることを確認してください
+    Relog
 #endif

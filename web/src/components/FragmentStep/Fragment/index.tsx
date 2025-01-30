@@ -80,7 +80,7 @@ function WaypointComponent() {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.waypoint)}>Waypoint</span>
+      <span className={classNames(styles.waypoint)}>ウェイポイント</span>
     </div>
   );
 }
@@ -93,7 +93,7 @@ function TrialComponent() {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.trial)}>Trial of Ascendancy</span>
+      <span className={classNames(styles.trial)}>アセンダンシーの試練</span>
     </div>
   );
 }
@@ -116,7 +116,7 @@ function PortalComponent(area?: GameData.Area) {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.portal)}>Portal</span>
+      <span className={classNames(styles.portal)}>ポータル</span>
       {area && (
         <>
           <span> ➞ </span>
@@ -177,7 +177,7 @@ function AscendComponent(version: string): [React.ReactNode, React.ReactNode] {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.trial)}>Ascend</span>
+      <span className={classNames(styles.trial)}>アセンダント</span>
     </div>,
     <a
       href={GUIDE_URL_LOOKUP[version]}
