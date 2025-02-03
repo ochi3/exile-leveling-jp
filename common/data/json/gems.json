@@ -2521,7 +2521,7 @@
   },
   "Metadata/Items/Gems/SkillGemPrecision": {
     "id": "Metadata/Items/Gems/SkillGemPrecision",
-    "name": "正確さ",
+    "name": "プレシジョン",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
