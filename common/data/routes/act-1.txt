@@ -27,7 +27,7 @@
     ネッサ {quest|a1q5} #Mercy Mission
 #endif
 {waypoint|1_1_4_1} #The Submerged Passage
-橋を見つけたら、{portal|set}を設置して先に進んでください
+橋を見つけたら {portal|set}を設置して先に進んでください
 ➞ {enter|1_1_5} #The Ledge
 ➞ {enter|1_1_6} #The Climb
 ➞ {enter|1_1_7_1} #The Lower Prison
