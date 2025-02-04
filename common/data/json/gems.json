@@ -561,7 +561,7 @@
   },
   "Metadata/Items/Gems/SkillGemProjectileWeakness": {
     "id": "Metadata/Items/Gems/SkillGemProjectileWeakness",
-    "name": "Sniper's Mark",
+    "name": "スナイパーの呪印",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
