@@ -4,7 +4,7 @@
 ➞ {enter|1_2_2} #The Old Fields
     #sub Go {dir|45}
 #ifdef LEAGUE_START
-    {area|1_2_2a}を見つけ、{portal|set}を設置し先に進む #The Den
+    {area|1_2_2a}を見つけ {portal|set}を設置し先に進む #The Den
 #endif
 ➞ {enter|1_2_3} #The Crossroads
       #sub 道に沿って進んでください
