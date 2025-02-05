@@ -533,7 +533,7 @@
   },
   "Metadata/Items/Gems/SkillGemWarlordsMark": {
     "id": "Metadata/Items/Gems/SkillGemWarlordsMark",
-    "name": "Warlord's Mark",
+    "name": "ウォーロードの呪印",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
@@ -554,7 +554,7 @@
   },
   "Metadata/Items/Gems/SkillGemCriticalWeakness": {
     "id": "Metadata/Items/Gems/SkillGemCriticalWeakness",
-    "name": "Assassin's Mark",
+    "name": "アサシンの呪印",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
@@ -1611,7 +1611,7 @@
   },
   "Metadata/Items/Gems/SkillGemPoachersMark": {
     "id": "Metadata/Items/Gems/SkillGemPoachersMark",
-    "name": "Poacher's Mark",
+    "name": "ポーチャーの呪印",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
@@ -3473,7 +3473,7 @@
   },
   "Metadata/Items/Gems/SkillGemAlchemistsMark": {
     "id": "Metadata/Items/Gems/SkillGemAlchemistsMark",
-    "name": "Alchemist's Mark",
+    "name": "アルケミストの呪印",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
