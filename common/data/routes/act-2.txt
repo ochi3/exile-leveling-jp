@@ -27,7 +27,7 @@
 ➞ {enter|1_2_6_2} #The Chamber of Sins Level 2
     #sub {waypoint}と同じ方向に進んでください
 #ifdef LEAGUE_START
-    Go {dir|270}? Complete {trial}
+    Complete {trial}
 #endif
 Kill {kill|悼みし者、フィデライタス}, take {quest_text|悪意の宝石}
     #sub 長い廊下を探してください
