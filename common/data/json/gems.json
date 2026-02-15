@@ -3771,5 +3771,68 @@
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
+  },
+  "Metadata/Items/Gems/SkillGemConflagration": {
+    "id": "Metadata/Items/Gems/SkillGemConflagration",
+    "name": "コンフラグレーション",
+    "primary_attribute": "dexterity",
+    "required_level": 28,
+    "is_support": false
+  },
+  "Metadata/Items/Gems/SkillGemThunderstorm": {
+    "id": "Metadata/Items/Gems/SkillGemThunderstorm",
+    "name": "サンダーストーム",
+    "primary_attribute": "intelligence",
+    "required_level": 28,
+    "is_support": false
+  },
+  "Metadata/Items/Gems/SupportGemWindburst": {
+    "id": "Metadata/Items/Gems/SupportGemWindburst",
+    "name": "ウィンドバーストサポート",
+    "primary_attribute": "dexterity",
+    "required_level": 31,
+    "is_support": true
+  },
+  "Metadata/Items/Gems/SkillGemKineticFusillade": {
+    "id": "Metadata/Items/Gems/SkillGemKineticFusillade",
+    "name": "キネティック・フュジラード",
+    "primary_attribute": "intelligence",
+    "required_level": 12,
+    "is_support": false
+  },
+  "Metadata/Items/Gems/SkillGemWallOfForce": {
+    "id": "Metadata/Items/Gems/SkillGemWallOfForce",
+    "name": "ウォールオブフォース",
+    "primary_attribute": "intelligence",
+    "required_level": 16,
+    "is_support": false
+  },
+  "Metadata/Items/Gems/SupportGemKineticInstability": {
+    "id": "Metadata/Items/Gems/SupportGemKineticInstability",
+    "name": "キネティックインスタビリティサポート",
+    "primary_attribute": "intelligence",
+    "required_level": 18,
+    "is_support": true
+  },
+  "Metadata/Items/Gems/SupportGemLivingLightning": {
+    "id": "Metadata/Items/Gems/SupportGemLivingLightning",
+    "name": "リビングライトニングサポート",
+    "primary_attribute": "intelligence",
+    "required_level": 18,
+    "is_support": true
+  },
+  "Metadata/Items/Gems/SkillGemKineticRain": {
+    "id": "Metadata/Items/Gems/SkillGemKineticRain",
+    "name": "キネティックレイン",
+    "primary_attribute": "intelligence",
+    "required_level": 28,
+    "is_support": false
+  },
+  "Metadata/Items/Gems/SkillGemSomaticShell": {
+    "id": "Metadata/Items/Gems/SkillGemSomaticShell",
+    "name": "ソマティックシェル",
+    "primary_attribute": "intelligence",
+    "required_level": 28,
+    "is_support": false
   }
 }
