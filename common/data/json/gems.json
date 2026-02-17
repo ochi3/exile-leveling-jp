@@ -43,7 +43,7 @@
   },
   "Metadata/Items/Gems/SkillGemChargedAttack": {
     "id": "Metadata/Items/Gems/SkillGemChargedAttack",
-    "name": "ブレードフラリイ",
+    "name": "ブレードフラリィ",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
@@ -197,21 +197,21 @@
   },
   "Metadata/Items/Gems/SupportGemFasterAttack": {
     "id": "Metadata/Items/Gems/SupportGemFasterAttack",
-    "name": "アタックスピードサポート",
+    "name": "アタックスピード増加サポート",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles",
-    "name": "投射物追加（大）サポート",
+    "name": "グレーター投射物追加サポート",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLesserMultipleProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemLesserMultipleProjectiles",
-    "name": "投射物追加（小）サポート",
+    "name": "レッサー投射物追加サポート",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
@@ -498,14 +498,14 @@
   },
   "Metadata/Items/Gems/SupportGemItemRarity": {
     "id": "Metadata/Items/Gems/SupportGemItemRarity",
-    "name": "アイテムレアリティ上昇サポート",
+    "name": "アイテムレアリティ増加サポート",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFasterCast": {
     "id": "Metadata/Items/Gems/SupportGemFasterCast",
-    "name": "キャストスピードサポート",
+    "name": "キャストスピード増加サポート",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
@@ -624,7 +624,7 @@
   },
   "Metadata/Items/Gems/SupportGemConcentratedEffect": {
     "id": "Metadata/Items/Gems/SupportGemConcentratedEffect",
-    "name": "効果濃縮サポート",
+    "name": "範囲ダメージ集中サポート",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
@@ -680,7 +680,7 @@
   },
   "Metadata/Items/Gems/SupportGemBloodlust": {
     "id": "Metadata/Items/Gems/SupportGemBloodlust",
-    "name": "渇血サポート",
+    "name": "ブラッドラストサポート",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
@@ -862,7 +862,7 @@
   },
   "Metadata/Items/Gems/SupportGemElementalProliferation": {
     "id": "Metadata/Items/Gems/SupportGemElementalProliferation",
-    "name": "元素拡散サポート",
+    "name": "元素伝染サポート",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true
@@ -1079,28 +1079,28 @@
   },
   "Metadata/Items/Gems/SupportGemFirePenetration": {
     "id": "Metadata/Items/Gems/SupportGemFirePenetration",
-    "name": "火耐性突破サポート",
+    "name": "火耐性貫通サポート",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemColdPenetration": {
     "id": "Metadata/Items/Gems/SupportGemColdPenetration",
-    "name": "冷気耐性突破サポート",
+    "name": "冷気耐性貫通サポート",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLightningPenetration": {
     "id": "Metadata/Items/Gems/SupportGemLightningPenetration",
-    "name": "雷耐性突破サポート",
+    "name": "雷耐性貫通サポート",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemElementalPenetration": {
     "id": "Metadata/Items/Gems/SupportGemElementalPenetration",
-    "name": "元素耐性突破サポート",
+    "name": "元素耐性貫通サポート",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
@@ -1373,7 +1373,7 @@
   },
   "Metadata/Items/Gems/SupportGemAdditionalQuality": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalQuality",
-    "name": "改質サポート",
+    "name": "エンハンスサポート",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": true
@@ -1464,7 +1464,7 @@
   },
   "Metadata/Items/Gems/SupportGemPhysicalProjectileAttackDamage": {
     "id": "Metadata/Items/Gems/SupportGemPhysicalProjectileAttackDamage",
-    "name": "投射物強化サポート",
+    "name": "凶悪な投射物サポート",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
@@ -1485,7 +1485,7 @@
   },
   "Metadata/Items/Gems/SupportGemAdditionalXP": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalXP",
-    "name": "啓発サポート",
+    "name": "エンライテンサポート",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true
@@ -1786,14 +1786,14 @@
   },
   "Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy": {
     "id": "Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy",
-    "name": "氷傷サポート",
+    "name": "アイスバイトサポート",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemDamageAgainstChilled": {
     "id": "Metadata/Items/Gems/SupportGemDamageAgainstChilled",
-    "name": "低体温化サポート",
+    "name": "ハイポサーミアサポート",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
@@ -1940,7 +1940,7 @@
   },
   "Metadata/Items/Gems/SupportGemVoidManipulation": {
     "id": "Metadata/Items/Gems/SupportGemVoidManipulation",
-    "name": "虚空制御サポート",
+    "name": "ヴォイド操作サポート",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
@@ -2031,7 +2031,7 @@
   },
   "Metadata/Items/Gems/SupportGemIgniteProliferation": {
     "id": "Metadata/Items/Gems/SupportGemIgniteProliferation",
-    "name": "発火拡散サポート",
+    "name": "発火伝染サポート",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
@@ -2066,14 +2066,14 @@
   },
   "Metadata/Items/Gems/SupportGemEfficacy": {
     "id": "Metadata/Items/Gems/SupportGemEfficacy",
-    "name": "効果増大サポート",
+    "name": "エフィカシーサポート",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemVileToxins": {
     "id": "Metadata/Items/Gems/SupportGemVileToxins",
-    "name": "猛毒サポート",
+    "name": "凶悪な毒サポート",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
@@ -2087,7 +2087,7 @@
   },
   "Metadata/Items/Gems/SupportGemImmolate": {
     "id": "Metadata/Items/Gems/SupportGemImmolate",
-    "name": "火刑サポート",
+    "name": "火炙りサポート",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
@@ -2129,7 +2129,7 @@
   },
   "Metadata/Items/Gems/SkillGemCorpseEruption": {
     "id": "Metadata/Items/Gems/SkillGemCorpseEruption",
-    "name": "クリメーション",
+    "name": "クレメーション",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
@@ -2157,7 +2157,7 @@
   },
   "Metadata/Items/Gems/SupportGemParallelProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemParallelProjectiles",
-    "name": "斉射サポート",
+    "name": "ボレーサポート",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": true
@@ -2304,7 +2304,7 @@
   },
   "Metadata/Items/Gems/SupportGemBonechill": {
     "id": "Metadata/Items/Gems/SupportGemBonechill",
-    "name": "酷寒サポート",
+    "name": "ボーンチルサポート",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
@@ -2444,7 +2444,7 @@
   },
   "Metadata/Items/Gems/SupportGemHandcastAnticipation": {
     "id": "Metadata/Items/Gems/SupportGemHandcastAnticipation",
-    "name": "解放サポート",
+    "name": "アンリーシュサポート",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
@@ -2479,7 +2479,7 @@
   },
   "Metadata/Items/Gems/SkillGemBerserk": {
     "id": "Metadata/Items/Gems/SkillGemBerserk",
-    "name": "狂化した",
+    "name": "バーサーク",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false
@@ -2591,21 +2591,21 @@
   },
   "Metadata/Items/Gems/SupportGemFeedingFrenzy": {
     "id": "Metadata/Items/Gems/SupportGemFeedingFrenzy",
-    "name": "暴食サポート",
+    "name": "狂乱の餌付けサポート",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemDeathmark": {
     "id": "Metadata/Items/Gems/SupportGemDeathmark",
-    "name": "捕食者サポート",
+    "name": "プレデターサポート",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemNightblade": {
     "id": "Metadata/Items/Gems/SupportGemNightblade",
-    "name": "夜刃サポート",
+    "name": "ナイトブレードサポート",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
@@ -2682,7 +2682,7 @@
   },
   "Metadata/Items/Gems/SupportGemBarrage": {
     "id": "Metadata/Items/Gems/SupportGemBarrage",
-    "name": "連射サポート",
+    "name": "バラージサポート",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
@@ -2703,7 +2703,7 @@
   },
   "Metadata/Items/Gems/SupportGemGreaterVolley": {
     "id": "Metadata/Items/Gems/SupportGemGreaterVolley",
-    "name": "斉射（大）サポート",
+    "name": "グレーターボレーサポート",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
@@ -2745,7 +2745,7 @@
   },
   "Metadata/Items/Gems/SupportGemFirePenetrationPlus": {
     "id": "Metadata/Items/Gems/SupportGemFirePenetrationPlus",
-    "name": "覚醒の火耐性突破サポート",
+    "name": "覚醒の火耐性貫通サポート",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
@@ -2808,7 +2808,7 @@
   },
   "Metadata/Items/Gems/SupportGemColdPenetrationPlus": {
     "id": "Metadata/Items/Gems/SupportGemColdPenetrationPlus",
-    "name": "覚醒の冷気耐性突破サポート",
+    "name": "覚醒の冷気耐性貫通サポート",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
@@ -2829,7 +2829,7 @@
   },
   "Metadata/Items/Gems/SupportGemGreaterMultipleProjectilesPlus": {
     "id": "Metadata/Items/Gems/SupportGemGreaterMultipleProjectilesPlus",
-    "name": "覚醒の投射物追加（大）サポート",
+    "name": "覚醒のグレーター投射物追加サポート",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
@@ -2843,14 +2843,14 @@
   },
   "Metadata/Items/Gems/SupportGemVoidManipulationPlus": {
     "id": "Metadata/Items/Gems/SupportGemVoidManipulationPlus",
-    "name": "覚醒の虚空制御サポート",
+    "name": "覚醒のヴォイド操作サポート",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemViciousProjectilesPlus": {
     "id": "Metadata/Items/Gems/SupportGemViciousProjectilesPlus",
-    "name": "覚醒の投射物強化サポート",
+    "name": "覚醒の凶悪な投射物サポート",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
@@ -2913,7 +2913,7 @@
   },
   "Metadata/Items/Gems/SupportGemLightningPenetrationPlus": {
     "id": "Metadata/Items/Gems/SupportGemLightningPenetrationPlus",
-    "name": "覚醒の雷耐性突破サポート",
+    "name": "覚醒の雷耐性貫通サポート",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
@@ -2948,28 +2948,28 @@
   },
   "Metadata/Items/Gems/SupportGemUnleashPlus": {
     "id": "Metadata/Items/Gems/SupportGemUnleashPlus",
-    "name": "覚醒の解放サポート",
+    "name": "覚醒のアンリーシュサポート",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemEmpowerPlus": {
     "id": "Metadata/Items/Gems/SupportGemEmpowerPlus",
-    "name": "覚醒の強化サポート",
+    "name": "覚醒のエンパワーサポート",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemEnlightenPlus": {
     "id": "Metadata/Items/Gems/SupportGemEnlightenPlus",
-    "name": "覚醒の啓発サポート",
+    "name": "覚醒のエンライテンサポート",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemEnhancePlus": {
     "id": "Metadata/Items/Gems/SupportGemEnhancePlus",
-    "name": "覚醒の改質サポート",
+    "name": "覚醒のエンハンスサポート",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
@@ -3011,7 +3011,7 @@
   },
   "Metadata/Items/Gems/SupportGemArchmage": {
     "id": "Metadata/Items/Gems/SupportGemArchmage",
-    "name": "アーチメイジサポート",
+    "name": "アークメイジサポート",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
@@ -3074,7 +3074,7 @@
   },
   "Metadata/Items/Gems/SkillGemGeneralsCry": {
     "id": "Metadata/Items/Gems/SkillGemGeneralsCry",
-    "name": "General's Cry",
+    "name": "ジェネラルズクライ",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
@@ -3200,7 +3200,7 @@
   },
   "Metadata/Items/Gems/SupportGemBloodthirst": {
     "id": "Metadata/Items/Gems/SupportGemBloodthirst",
-    "name": "飢血サポート",
+    "name": "ブラッドサーストサポート",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
@@ -3263,7 +3263,7 @@
   },
   "Metadata/Items/Gems/SkillGemBattlemagesCry": {
     "id": "Metadata/Items/Gems/SkillGemBattlemagesCry",
-    "name": "Battlemage's Cry",
+    "name": "バトルメイジズクライ",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
@@ -3333,7 +3333,7 @@
   },
   "Metadata/Items/Gems/SupportGemBehead": {
     "id": "Metadata/Items/Gems/SupportGemBehead",
-    "name": "斬首サポート",
+    "name": "首狩りサポート",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
@@ -3452,7 +3452,7 @@
   },
   "Metadata/Items/Gems/SupportGemOvercharge": {
     "id": "Metadata/Items/Gems/SupportGemOvercharge",
-    "name": "過充電サポート",
+    "name": "過剰感電サポート",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
@@ -3529,7 +3529,7 @@
   },
   "Metadata/Items/Gems/SupportGemHexBloom": {
     "id": "Metadata/Items/Gems/SupportGemHexBloom",
-    "name": "呪術開花サポート",
+    "name": "呪術伝染サポート",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
@@ -3641,7 +3641,7 @@
   },
   "Metadata/Items/Gems/SupportGemTrauma": {
     "id": "Metadata/Items/Gems/SupportGemTrauma",
-    "name": "外傷サポート",
+    "name": "トラウマサポート",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
@@ -3655,7 +3655,7 @@
   },
   "Metadata/Items/Gems/SupportGemDevour": {
     "id": "Metadata/Items/Gems/SupportGemDevour",
-    "name": "貪りサポート",
+    "name": "捕食サポート",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
@@ -3683,7 +3683,7 @@
   },
   "Metadata/Items/Gems/SupportGemGuardiansBlessing": {
     "id": "Metadata/Items/Gems/SupportGemGuardiansBlessing",
-    "name": "Guardian's Blessing Support",
+    "name": "守護者のブレッシングサポート",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
@@ -3718,7 +3718,7 @@
   },
   "Metadata/Items/Gems/SupportGemControlledBlaze": {
     "id": "Metadata/Items/Gems/SupportGemControlledBlaze",
-    "name": "制御火炎サポート",
+    "name": "発火制御サポート",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
@@ -3795,7 +3795,7 @@
   },
   "Metadata/Items/Gems/SkillGemKineticFusillade": {
     "id": "Metadata/Items/Gems/SkillGemKineticFusillade",
-    "name": "キネティック・フュジラード",
+    "name": "キネティックフューシレイド",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
