@@ -1,0 +1,174 @@
+const e=`#section Act 2
+➞ {enter|1_2_1} #The Southern Forest
+➞ {enter|1_2_town} #The Forest Encampment
+➞ {enter|1_2_2} #The Old Fields
+    #sub Go {dir|45}
+#ifdef LEAGUE_START
+    {area|1_2_2a}を見つけ {portal|set}を設置し先に進む #The Den
+#endif
+➞ {enter|1_2_3} #The Crossroads
+      #sub 道に沿って進んでください
+#ifdef LEAGUE_START
+    {waypoint|1_2_town} #The Forest Encampment
+      #sub 道に沿って進んでください
+    Take {portal|use}
+    ➞ {enter|1_2_2a} #The Den
+    {kill|偉大なる白の獣}を見つけて倒す
+        #sub 左の壁に沿って進む
+    {logout}
+    イーナ {quest|a2q10} #The Great White Beast
+    {waypoint|1_2_3} #The Crossroads
+#endif
+#ifndef LEAGUE_START
+    Get {waypoint_get}
+#endif
+➞ {enter|1_2_6_1} #The Chamber of Sins Level 1
+    #sub Go {dir|315}
+➞ {enter|1_2_6_2} #The Chamber of Sins Level 2
+    #sub {waypoint}と同じ方向に進んでください
+#ifdef LEAGUE_START
+    Complete {trial}
+#endif
+Kill {kill|悼みし者、フィデライタス}, take {quest_text|悪意の宝石}
+    #sub 長い廊下を探してください
+    #sub 推奨レベル: 14～15
+{logout}
+グルースト {quest|a2q6} #Intruders in Black
+{waypoint|1_2_3} #The Crossroads
+➞ {enter|1_2_15} #The Fellshrine Ruins
+    #sub Go {dir|135}
+➞ {enter|1_2_5_1} #The Crypt Level 1
+    #sub 道に沿って進んでください
+#ifdef LEAGUE_START
+    Complete {trial}
+#endif
+➞ {enter|1_2_5_2} #The Crypt Level 2
+Find {quest_text|祭壇}, take {quest_text|黄金の手}
+{logout}
+イーナ {quest|a2q5} #Through Sacred Ground
+➞ {enter|1_2_7} #The Riverways
+    #sub Go {dir|225}
+Get {waypoint_get}
+    #sub 道に沿って進んでください
+➞ {enter|1_2_9} #The Western Forest
+    #sub 道に沿って進んでください
+Get {waypoint_get}
+    #sub 道に沿って進んでください
+➞ {enter|1_2_10} #The Weaver's Chambers
+    #sub {waypoint}の反対側の道路脇を探してください
+➞ {arena|蜘蛛の巣}, kill {kill|編む者}, take {quest_text|マリガロの棘}
+    #sub {dir|270}に進んでみて、通れない場合は{dir|45}に進んでください
+    #sub 推奨レベル: 16
+{logout}
+シルク {quest|a2q4} #Sharp and Cruel
+#ifdef BANDIT_KILL
+    {waypoint|1_2_3} #The Crossroads
+    ➞ {enter|1_2_4} #The Broken Bridge
+        #sub Go {dir|45}
+    Kill {kill|スカーベアラー、クレイティン}, take {quest_text|クレイティンのお守り}
+    #sub 道に沿って進んでください
+    {logout}
+    {waypoint|1_2_7} #The Riverways
+    ➞ {enter|1_2_12} #The Wetlands
+        #sub {waypoint}付近の2本の柱を探し、道をたどって進んでください
+    Find and kill {kill|スカルブレイカー、オーク}, take {quest_text|オークのお守り}
+    {waypoint|1_2_9} #The Western Forest
+        #sub 野営地の入口とは反対方向を探してください
+    Kill {kill|アリーラ・ダークタン}, take {quest_text|アリーラのお守り}
+        #sub {dir|180}に進み、道路に接している松明を探してください
+        #sub 松明の方向に沿って道をたどって進んでください
+    Kill {kill|アルテリ隊長}
+        #sub 道に沿って進んでください {dir|225}
+    Take {quest_text|魔術の徽章}, activate {quest_text|魔術の封印}
+    {logout}
+    エラミール {quest|a2q7}, take {quest_text|エイペックス} #Deal with the Bandits
+    {waypoint|1_1_town} #Lioneye's Watch
+    ベストル {quest|a1q9} #The Way Forward
+    {waypoint|1_2_12} #The Wetlands
+    Poison the {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
+#endif
+#ifdef BANDIT_ALIRA
+    {waypoint|1_2_3} #The Crossroads
+    ➞ {enter|1_2_4} #The Broken Bridge
+        #sub Go {dir|45}
+    Kill {kill|スカーベアラー、クレイティン}, take {quest_text|クレイティンのお守り}
+        #sub 道に沿って進んでください
+    {logout}
+    {waypoint|1_2_7} #The Riverways
+    ➞ {enter|1_2_12} #The Wetlands
+        #sub {waypoint}付近の2本の柱を探し、その道をたどって進んでください
+    Find and kill {kill|スカルブレイカー、オーク}, take {quest_text|オークのお守り}
+    {waypoint|1_2_9} #The Western Forest
+        #sub 野営地の入口とは反対方向を探してください
+    Help {kill|アリーラ・ダークタン}, take {quest_text|エイペックス}
+        #sub {dir|180}に進み、道路に接している松明を探してください
+        #sub 松明の方向に沿って道をたどって進んでください
+    Kill {kill|アルテリ隊長}
+        #sub 道に沿って進んでください {dir|225}
+    Take {quest_text|魔術の徽章}, activate {quest_text|魔術の封印}
+    {logout}
+    {waypoint|1_1_town} #Lioneye's Watch
+    ベストル {quest|a1q9} #The Way Forward
+    {waypoint|1_2_12} #The Wetlands
+    Poison the {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
+#endif
+#ifdef BANDIT_KRAITYN
+    {waypoint|1_2_7} #The Riverways
+    ➞ {enter|1_2_12} #The Wetlands
+        #sub {waypoint}付近の2本の柱を探し、その道をたどって進んでください
+    Find and kill {kill|スカルブレイカー、オーク}, take {quest_text|オークのお守り}
+    {waypoint|1_2_9} #The Western Forest
+        #sub 野営地の入口とは反対方向を探してください
+    Kill {kill|アリーラ・ダークタン}, take {quest_text|アリーラのお守り}
+        #sub {dir|180}に進み、道路に接している松明を探してください
+        #sub 松明の方向に沿って道をたどって進んでください
+    Kill {kill|アルテリ隊長}
+        #sub 道に沿って進んでください {dir|225}
+    Take {quest_text|魔術の徽章}, activate {quest_text|魔術の封印}
+    {logout}
+    {waypoint|1_1_town} #Lioneye's Watch
+    ベストル {quest|a1q9} #The Way Forward
+    {waypoint|1_2_3} #The Crossroads
+    ➞ {enter|1_2_4} #The Broken Bridge
+        #sub Go {dir|45}
+    Help {kill|スカーベアラー、クレイティン}, take {quest_text|エイペックス}
+        #sub 道に沿って進んでください
+    {logout}
+    {waypoint|1_2_12} #The Wetlands
+    Poison the {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
+#endif
+#ifdef BANDIT_OAK
+    {waypoint|1_2_3} #The Crossroads
+    ➞ {enter|1_2_4} #The Broken Bridge
+        #sub Go {dir|45}
+    Kill {kill|スカーベアラー、クレイティン}, take {quest_text|クレイティンのお守り}
+        #sub 道に沿って進んでください
+    {logout}
+    {waypoint|1_2_9} #The Western Forest
+    Kill {kill|アリーラ・ダークタン}, take {quest_text|アリーラのお守り}
+        #sub {dir|180}に進み、道路に接している松明を探してください
+        #sub 松明の方向に沿って道をたどって進んでください
+    Kill {kill|アルテリ隊長}
+        #sub 道に沿って進んでください {dir|225}
+    Take {quest_text|魔術の徽章}, activate {quest_text|魔術の封印}
+    {logout}
+    {waypoint|1_1_town} #Lioneye's Watch
+    ベストル {quest|a1q9} #The Way Forward
+    {waypoint|1_2_7} #The Riverways
+    ➞ {enter|1_2_12} #The Wetlands
+        #sub {waypoint}付近の2本の柱を探し、その道をたどって進んでください
+    Find and help {kill|スカルブレイカー、オーク}, take {quest_text|エイペックス}
+    Poison the {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
+        #sub 野営地の入口とは反対方向を探してください
+#endif
+➞ {enter|1_2_8} #The Northern Forest
+    #sub S字形またはL字形の道が出口に繋がっています
+➞ {enter|1_2_14_2} #The Caverns
+Get {crafting}
+➞ {enter|1_2_14_3} #The Ancient Pyramid
+➞ {arena|ピラミッドの頂上}, kill {kill|ヴァールオーバーソウル}
+    #sub 1階の出口は3つの角のいずれかにあります
+    #sub 残りの階の出口は入口から斜め向かいに位置します
+    #sub 推奨レベル: 20～22
+Get {crafting}
+`;export{e as default};
